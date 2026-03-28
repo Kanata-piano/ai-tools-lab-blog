@@ -1,0 +1,23 @@
+baseURL = "https://example.pages.dev"
+languageCode = "ja"
+title = "AI Tools Lab"
+theme = "PaperMod"
+
+[params]
+  description = "AIツール・テクノロジーの最新情報をお届け"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+[params.homeInfoParams]
+  Title = "AI Tools Lab"
+  Content = "AIツール・テクノロジーの最新レビューと活用ガイド"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
