@@ -9,7 +9,7 @@ tags:
   - "AI"
   - "ツール"
 categories:
-  - "AIツール・レビュー"
+  - "ai-writing-tools"
 ---
 
 ※本記事にはアフィリエイトリンクが含まれています。

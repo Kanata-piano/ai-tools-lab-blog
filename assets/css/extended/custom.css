@@ -1,0 +1,793 @@
+/* ============================================
+   AI Tools Lab - Custom CSS for PaperMod
+   テック系メディアのプロフェッショナルデザイン
+   ============================================ */
+
+/* --- CSS Variables Override --- */
+:root {
+  --brand-primary: #2563eb;
+  --brand-primary-dark: #1d4ed8;
+  --brand-secondary: #7c3aed;
+  --brand-accent: #06b6d4;
+  --brand-gradient: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+  --brand-gradient-light: linear-gradient(135deg, rgba(37, 99, 235, 0.08) 0%, rgba(124, 58, 237, 0.08) 100%);
+  --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06);
+  --card-shadow-hover: 0 10px 25px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.05);
+  --radius: 12px;
+  --radius-sm: 8px;
+}
+
+.dark {
+  --brand-primary: #60a5fa;
+  --brand-primary-dark: #3b82f6;
+  --brand-secondary: #a78bfa;
+  --brand-accent: #22d3ee;
+  --brand-gradient: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+  --brand-gradient-light: linear-gradient(135deg, rgba(59, 130, 246, 0.12) 0%, rgba(139, 92, 246, 0.12) 100%);
+}
+
+/* --- Header --- */
+.nav {
+  max-width: 1200px;
+}
+
+#menu a {
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: color 0.2s ease;
+}
+
+#menu a:hover {
+  color: var(--brand-primary) !important;
+}
+
+.logo a {
+  font-weight: 800;
+  font-size: 1.35rem;
+  background: var(--brand-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* --- Hero Section (Home Info) --- */
+.first-entry .home-info {
+  padding: 3rem 2rem;
+  border-radius: var(--radius);
+  background: var(--brand-gradient-light);
+  border: 1px solid rgba(37, 99, 235, 0.15);
+}
+
+.first-entry .home-info .entry-content {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--secondary);
+}
+
+.home-info .entry-hint {
+  font-size: 2rem;
+  font-weight: 800;
+  background: var(--brand-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* --- Post Entry Cards --- */
+.post-entry {
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  box-shadow: var(--card-shadow);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow: hidden;
+  margin-bottom: 1.2rem;
+}
+
+.post-entry:hover {
+  box-shadow: var(--card-shadow-hover);
+  transform: translateY(-2px);
+  border-color: var(--brand-primary);
+}
+
+.post-entry .entry-header h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.post-entry .entry-content {
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: var(--secondary);
+}
+
+.post-entry .post-meta {
+  font-size: 0.8rem;
+}
+
+/* --- Tag & Category Badges --- */
+.post-tags a,
+.terms-tags a {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  background: var(--brand-gradient-light);
+  color: var(--brand-primary);
+  border: 1px solid rgba(37, 99, 235, 0.2);
+  transition: all 0.2s ease;
+}
+
+.post-tags a:hover,
+.terms-tags a:hover {
+  background: var(--brand-primary);
+  color: #fff;
+  border-color: var(--brand-primary);
+}
+
+/* --- Article Content Typography --- */
+.post-content {
+  font-size: 1.02rem;
+  line-height: 1.9;
+}
+
+.post-content h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin-top: 3rem;
+  margin-bottom: 1.2rem;
+  padding-left: 1rem;
+  border-left: 4px solid var(--brand-primary);
+  position: relative;
+}
+
+.post-content h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid rgba(37, 99, 235, 0.2);
+}
+
+.post-content h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.8rem;
+  color: var(--brand-primary);
+}
+
+.post-content p {
+  margin-bottom: 1.2rem;
+}
+
+.post-content strong {
+  color: var(--primary);
+  font-weight: 700;
+}
+
+/* --- Blockquote --- */
+.post-content blockquote {
+  border-left: 4px solid var(--brand-primary);
+  background: var(--brand-gradient-light);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-style: normal;
+}
+
+.post-content blockquote p {
+  margin-bottom: 0;
+}
+
+/* --- Lists --- */
+.post-content ul,
+.post-content ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.2rem;
+}
+
+.post-content li {
+  margin-bottom: 0.5rem;
+  line-height: 1.8;
+}
+
+.post-content ul li::marker {
+  color: var(--brand-primary);
+}
+
+.post-content ol li::marker {
+  color: var(--brand-primary);
+  font-weight: 700;
+}
+
+/* --- Code Block --- */
+.post-content code {
+  font-size: 0.88rem;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  background: rgba(37, 99, 235, 0.08);
+  color: var(--brand-primary-dark);
+}
+
+.post-content pre {
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  box-shadow: var(--card-shadow);
+}
+
+.post-content pre code {
+  background: none;
+  padding: 0;
+  color: inherit;
+}
+
+/* --- Table Styling --- */
+.post-content table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  box-shadow: var(--card-shadow);
+  margin: 1.5rem 0;
+  border: 1px solid var(--border);
+}
+
+.post-content table thead {
+  background: var(--brand-gradient);
+}
+
+.post-content table thead th {
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: 0.85rem 1rem;
+  text-align: left;
+  border: none;
+}
+
+.post-content table tbody tr {
+  transition: background 0.15s ease;
+}
+
+.post-content table tbody tr:nth-child(even) {
+  background: var(--brand-gradient-light);
+}
+
+.post-content table tbody tr:hover {
+  background: rgba(37, 99, 235, 0.08);
+}
+
+.post-content table td {
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  border-top: 1px solid var(--border);
+}
+
+/* --- Images --- */
+.post-content img {
+  border-radius: var(--radius-sm);
+  box-shadow: var(--card-shadow);
+  margin: 1rem 0;
+}
+
+.post-content figure {
+  margin: 1.5rem 0;
+}
+
+.post-content figure figcaption {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--secondary);
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+/* --- TOC (Table of Contents) --- */
+.toc {
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--entry);
+  box-shadow: var(--card-shadow);
+  padding: 1rem 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.toc .inner {
+  margin: 0;
+}
+
+.toc details summary {
+  font-weight: 700;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0.5rem 0;
+  color: var(--brand-primary);
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.toc ul li {
+  padding: 0.25rem 0;
+  border-left: 2px solid transparent;
+  padding-left: 1rem;
+  transition: border-color 0.2s;
+}
+
+.toc ul li:hover {
+  border-left-color: var(--brand-primary);
+}
+
+.toc ul li a {
+  font-size: 0.9rem;
+  color: var(--secondary);
+  transition: color 0.2s;
+}
+
+.toc ul li a:hover {
+  color: var(--brand-primary);
+}
+
+/* --- Breadcrumbs --- */
+.breadcrumbs {
+  font-size: 0.82rem;
+  margin-bottom: 1rem;
+}
+
+.breadcrumbs a {
+  color: var(--brand-primary);
+}
+
+/* --- Share Buttons --- */
+.share-buttons a {
+  transition: transform 0.2s ease;
+}
+
+.share-buttons a:hover {
+  transform: scale(1.1);
+}
+
+/* --- Footer --- */
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 2rem 0;
+}
+
+.footer a {
+  color: var(--brand-primary);
+}
+
+/* --- Pagination --- */
+.pagination a,
+.pagination .page-number {
+  border-radius: var(--radius-sm);
+}
+
+.pagination a:hover {
+  background: var(--brand-primary);
+  color: #fff;
+  border-color: var(--brand-primary);
+}
+
+/* ============================================
+   Shortcode Styles
+   ============================================ */
+
+/* --- Affiliate Box --- */
+.affiliate-box {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--entry);
+  box-shadow: var(--card-shadow);
+  margin: 1.5rem 0;
+  transition: box-shadow 0.3s ease;
+}
+
+.affiliate-box:hover {
+  box-shadow: var(--card-shadow-hover);
+}
+
+.affiliate-box-image {
+  flex-shrink: 0;
+  width: 160px;
+}
+
+.affiliate-box-image img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-sm);
+  box-shadow: none;
+  margin: 0;
+}
+
+.affiliate-box-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.affiliate-box-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--primary);
+}
+
+.affiliate-box-desc {
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: var(--secondary);
+  margin-bottom: 0.8rem;
+  flex: 1;
+}
+
+.affiliate-box-price {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--brand-primary);
+  margin-bottom: 0.8rem;
+}
+
+.affiliate-box-btn {
+  display: inline-block;
+  padding: 0.6rem 1.5rem;
+  background: var(--brand-gradient);
+  color: #fff !important;
+  border-radius: var(--radius-sm);
+  font-weight: 700;
+  font-size: 0.9rem;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.3);
+}
+
+.affiliate-box-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+}
+
+.affiliate-box-notice {
+  font-size: 0.75rem;
+  color: var(--secondary);
+  margin-top: 0.5rem;
+}
+
+/* --- Pros/Cons Box --- */
+.pros-cons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.pros-box,
+.cons-box {
+  padding: 1.2rem;
+  border-radius: var(--radius);
+  box-shadow: var(--card-shadow);
+}
+
+.pros-box {
+  background: rgba(34, 197, 94, 0.06);
+  border: 1px solid rgba(34, 197, 94, 0.25);
+}
+
+.cons-box {
+  background: rgba(239, 68, 68, 0.06);
+  border: 1px solid rgba(239, 68, 68, 0.25);
+}
+
+.pros-box-title,
+.cons-box-title {
+  font-weight: 800;
+  font-size: 1rem;
+  margin-bottom: 0.8rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.pros-box-title {
+  color: #16a34a;
+}
+
+.cons-box-title {
+  color: #dc2626;
+}
+
+.pros-box ul,
+.cons-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pros-box li,
+.cons-box li {
+  padding: 0.35rem 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  padding-left: 1.4rem;
+  position: relative;
+}
+
+.pros-box li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #16a34a;
+  font-weight: 700;
+}
+
+.cons-box li::before {
+  content: "✗";
+  position: absolute;
+  left: 0;
+  color: #dc2626;
+  font-weight: 700;
+}
+
+/* --- CTA Button --- */
+.cta-button-wrapper {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 0.9rem 2.5rem;
+  background: var(--brand-gradient);
+  color: #fff !important;
+  border-radius: var(--radius-sm);
+  font-weight: 800;
+  font-size: 1.05rem;
+  text-decoration: none;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.35);
+  position: relative;
+  overflow: hidden;
+}
+
+.cta-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.45);
+}
+
+.cta-button::after {
+  content: " →";
+}
+
+.cta-button-sub {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--secondary);
+  margin-top: 0.5rem;
+}
+
+/* --- Info Box --- */
+.info-box {
+  padding: 1.2rem 1.5rem;
+  border-radius: var(--radius);
+  margin: 1.5rem 0;
+  font-size: 0.93rem;
+  line-height: 1.8;
+  box-shadow: var(--card-shadow);
+}
+
+.info-box-title {
+  font-weight: 700;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.info-box.info {
+  background: rgba(37, 99, 235, 0.06);
+  border: 1px solid rgba(37, 99, 235, 0.2);
+  border-left: 4px solid var(--brand-primary);
+}
+
+.info-box.info .info-box-title {
+  color: var(--brand-primary);
+}
+
+.info-box.tip {
+  background: rgba(34, 197, 94, 0.06);
+  border: 1px solid rgba(34, 197, 94, 0.2);
+  border-left: 4px solid #16a34a;
+}
+
+.info-box.tip .info-box-title {
+  color: #16a34a;
+}
+
+.info-box.warning {
+  background: rgba(245, 158, 11, 0.06);
+  border: 1px solid rgba(245, 158, 11, 0.2);
+  border-left: 4px solid #f59e0b;
+}
+
+.info-box.warning .info-box-title {
+  color: #d97706;
+}
+
+.info-box.danger {
+  background: rgba(239, 68, 68, 0.06);
+  border: 1px solid rgba(239, 68, 68, 0.2);
+  border-left: 4px solid #ef4444;
+}
+
+.info-box.danger .info-box-title {
+  color: #dc2626;
+}
+
+/* --- Comparison Table --- */
+.comparison-table-wrapper {
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  border-radius: var(--radius);
+  box-shadow: var(--card-shadow);
+  border: 1px solid var(--border);
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 600px;
+}
+
+.comparison-table thead {
+  background: var(--brand-gradient);
+}
+
+.comparison-table thead th {
+  color: #fff;
+  font-weight: 700;
+  padding: 0.85rem 1rem;
+  font-size: 0.9rem;
+  text-align: center;
+  white-space: nowrap;
+  border: none;
+}
+
+.comparison-table thead th:first-child {
+  text-align: left;
+}
+
+.comparison-table tbody td {
+  padding: 0.75rem 1rem;
+  font-size: 0.88rem;
+  text-align: center;
+  border-top: 1px solid var(--border);
+}
+
+.comparison-table tbody td:first-child {
+  font-weight: 600;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.comparison-table tbody tr:nth-child(even) {
+  background: var(--brand-gradient-light);
+}
+
+.comparison-table tbody tr:hover {
+  background: rgba(37, 99, 235, 0.08);
+}
+
+.comparison-table .highlight-col {
+  background: rgba(37, 99, 235, 0.06);
+}
+
+.comparison-table .rating-best {
+  color: #16a34a;
+  font-weight: 700;
+}
+
+.comparison-table .rating-good {
+  color: var(--brand-primary);
+  font-weight: 600;
+}
+
+.comparison-table .rating-fair {
+  color: #d97706;
+}
+
+/* --- Affiliate Disclosure --- */
+.affiliate-disclosure {
+  background: rgba(245, 158, 11, 0.06);
+  border: 1px solid rgba(245, 158, 11, 0.2);
+  border-radius: var(--radius-sm);
+  padding: 0.8rem 1.2rem;
+  font-size: 0.82rem;
+  color: var(--secondary);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.affiliate-disclosure::before {
+  content: "PR ";
+  font-weight: 700;
+  color: #d97706;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .affiliate-box {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .affiliate-box-image {
+    width: 120px;
+    margin: 0 auto;
+  }
+
+  .pros-cons {
+    grid-template-columns: 1fr;
+  }
+
+  .post-content h2 {
+    font-size: 1.3rem;
+  }
+
+  .post-content h3 {
+    font-size: 1.1rem;
+  }
+
+  .home-info .entry-hint {
+    font-size: 1.6rem;
+  }
+
+  .cta-button {
+    display: block;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .first-entry .home-info {
+    padding: 2rem 1rem;
+  }
+
+  .post-content table {
+    font-size: 0.82rem;
+  }
+
+  .post-content table thead th,
+  .post-content table td {
+    padding: 0.5rem 0.6rem;
+  }
+}
+
+/* --- Smooth Scroll --- */
+html {
+  scroll-behavior: smooth;
+}
+
+/* --- Selection Color --- */
+::selection {
+  background: rgba(37, 99, 235, 0.2);
+  color: inherit;
+}
+
+/* --- Focus Styles (Accessibility) --- */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--brand-primary);
+  outline-offset: 2px;
+  border-radius: 2px;
+}

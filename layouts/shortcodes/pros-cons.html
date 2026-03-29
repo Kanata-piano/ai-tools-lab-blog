@@ -1,0 +1,28 @@
+{{/*
+  Pros/Cons Shortcode
+  Usage:
+  {{< pros-cons
+    pros="高い日本語品質|無料プランあり|豊富なプラグイン"
+    cons="月額料金が高め|オフライン不可|学習コストがある"
+  >}}
+*/}}
+<div class="pros-cons">
+  <div class="pros-box">
+    <div class="pros-box-title">&#9898; メリット</div>
+    <ul>
+      {{ $pros := split (.Get "pros") "|" }}
+      {{ range $pros }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="cons-box">
+    <div class="cons-box-title">&#9899; デメリット</div>
+    <ul>
+      {{ $cons := split (.Get "cons") "|" }}
+      {{ range $cons }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+</div>

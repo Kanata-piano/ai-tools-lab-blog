@@ -1,0 +1,35 @@
+{{/*
+  Comparison Table Shortcode
+  Usage:
+  {{< comparison-table >}}
+  ツール名,料金,日本語対応,おすすめ度
+  ChatGPT,月額3000円,◎,★★★★★
+  Claude,月額3000円,◎,★★★★★
+  Gemini,無料〜,○,★★★★☆
+  {{< /comparison-table >}}
+*/}}
+<div class="comparison-table-wrapper">
+  <table class="comparison-table">
+    {{ $rows := split (trim .Inner "\n") "\n" }}
+    {{ range $i, $row := $rows }}
+      {{ $cells := split $row "," }}
+      {{ if eq $i 0 }}
+        <thead>
+          <tr>
+            {{ range $cells }}
+              <th>{{ trim . " " }}</th>
+            {{ end }}
+          </tr>
+        </thead>
+        <tbody>
+      {{ else }}
+        <tr>
+          {{ range $j, $cell := $cells }}
+            <td{{ if eq $j 0 }} class="row-header"{{ end }}>{{ trim $cell " " }}</td>
+          {{ end }}
+        </tr>
+      {{ end }}
+    {{ end }}
+        </tbody>
+  </table>
+</div>

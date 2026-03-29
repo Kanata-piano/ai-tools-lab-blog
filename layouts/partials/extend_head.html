@@ -1,0 +1,8 @@
+{{- /* Head custom content area start */ -}}
+{{- if .Site.Params.enableAds }}
+{{- with .Site.Params.adSensePublisherId }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}"
+     crossorigin="anonymous"></script>
+{{- end }}
+{{- end }}
+{{- /* Head custom content area end */ -}}

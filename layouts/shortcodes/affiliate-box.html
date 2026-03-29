@@ -1,0 +1,32 @@
+{{/*
+  Affiliate Box Shortcode
+  Usage:
+  {{< affiliate-box
+    title="ツール名"
+    image="/images/tool.jpg"
+    description="説明文"
+    price="月額3,000円〜"
+    url="https://example.com"
+    btn-text="公式サイトを見る"
+  >}}
+*/}}
+<div class="affiliate-box">
+  {{ if .Get "image" }}
+  <div class="affiliate-box-image">
+    <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" loading="lazy">
+  </div>
+  {{ end }}
+  <div class="affiliate-box-content">
+    <div class="affiliate-box-title">{{ .Get "title" }}</div>
+    <div class="affiliate-box-desc">{{ .Get "description" }}</div>
+    {{ if .Get "price" }}
+    <div class="affiliate-box-price">{{ .Get "price" }}</div>
+    {{ end }}
+    <div>
+      <a href="{{ .Get "url" }}" class="affiliate-box-btn" target="_blank" rel="nofollow noopener sponsored">
+        {{ .Get "btn-text" | default "詳細を見る" }}
+      </a>
+    </div>
+    <div class="affiliate-box-notice">※ 広告・アフィリエイトリンクを含みます</div>
+  </div>
+</div>

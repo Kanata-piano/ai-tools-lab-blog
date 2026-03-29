@@ -1,0 +1,13 @@
+{{- if .Site.Params.enableAds }}
+<div class="ad-container ad-article-top" style="margin: 1.5em 0; text-align: center;">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ .Site.Params.adSensePublisherId }}"
+       data-ad-slot=""
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+{{- end }}

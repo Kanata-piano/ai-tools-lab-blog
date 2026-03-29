@@ -1,23 +1,169 @@
 baseURL = "https://example.pages.dev"
 languageCode = "ja"
+defaultContentLanguage = "ja"
 title = "AI Tools Lab"
 theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
 
 [params]
-  description = "AIツール・テクノロジーの最新情報をお届け"
+  env = "production"
+  description = "AIツールの専門レビュー＆活用ガイド。信頼できる情報で、最適なAIツール選びをサポートします。"
+  author = "AI Tools Lab編集部"
+
+  # 記事表示設定
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = true
+
+  # テーマ設定
   defaultTheme = "auto"
+  disableThemeToggle = false
 
-[params.homeInfoParams]
-  Title = "AI Tools Lab"
-  Content = "AIツール・テクノロジーの最新レビューと活用ガイド"
+  # 検索設定
+  fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
 
+  # カバー画像設定
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+    linkFullImages = true
+    responsiveImages = true
+
+  # OGP / ソーシャル設定
+  images = ["/images/og-default.svg"]
+
+  # ホームページ設定
+  [params.homeInfoParams]
+    Title = "AI Tools Lab"
+    Content = """信頼できるAIツール情報をお届けするテックメディア。
+最新のAIツールレビュー、比較、活用ガイドで、あなたのベストな選択をサポートします。"""
+
+  # SNSアイコン
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/"
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+  # ラベル（サイトロゴ）
+  [params.label]
+    text = "AI Tools Lab"
+    icon = "/favicon.svg"
+    iconHeight = 28
+
+  # 検出ツール（アナリティクス等は後で設定）
+  # [params.analytics.google]
+  #   SiteVerificationTag = ""
+
+  # 広告設定（AdSense承認後に有効化）
+  enableAds = false
+  adSensePublisherId = ""  # ca-pub-xxxxxxxxxx
+
+  # 編集リンク
+  [params.editPost]
+    disabled = true
+
+# フッターメニュー（法的ページ）
+[[menu.footer]]
+  identifier = "privacy"
+  name = "プライバシーポリシー"
+  url = "/privacy/"
+  weight = 1
+
+[[menu.footer]]
+  identifier = "terms"
+  name = "利用規約"
+  url = "/terms/"
+  weight = 2
+
+[[menu.footer]]
+  identifier = "contact"
+  name = "お問い合わせ"
+  url = "/contact/"
+  weight = 3
+
+[[menu.footer]]
+  identifier = "about"
+  name = "サイトについて"
+  url = "/about/"
+  weight = 4
+
+# メインメニュー
+[[menu.main]]
+  identifier = "search"
+  name = "検索"
+  url = "/search/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "ai-writing"
+  name = "AI文章作成"
+  url = "/categories/ai-writing-tools/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "ai-image"
+  name = "AI画像生成"
+  url = "/categories/ai-image-generation/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "ai-video"
+  name = "AI動画編集"
+  url = "/categories/ai-video-editing/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "ai-business"
+  name = "業務効率化"
+  url = "/categories/ai-business-efficiency/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "ai-learning"
+  name = "AI学習"
+  url = "/categories/ai-learning-education/"
+  weight = 50
+
+[[menu.main]]
+  identifier = "archives"
+  name = "アーカイブ"
+  url = "/archives/"
+  weight = 60
+
+# 出力形式
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[markup.goldmark.renderer]
-  unsafe = true
+# マークダウン設定
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+
+# Minify設定
+[minify]
+  disableXML = true
+  minifyOutput = true

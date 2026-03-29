@@ -1,0 +1,13 @@
+{{/*
+  CTA Button Shortcode
+  Usage:
+  {{< cta-button url="https://example.com" text="無料で試してみる" sub="※ クレジットカード不要" >}}
+*/}}
+<div class="cta-button-wrapper">
+  <a href="{{ .Get "url" }}" class="cta-button" target="_blank" rel="nofollow noopener">
+    {{ .Get "text" | default "詳細はこちら" }}
+  </a>
+  {{ if .Get "sub" }}
+  <span class="cta-button-sub">{{ .Get "sub" }}</span>
+  {{ end }}
+</div>

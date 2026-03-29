@@ -1,0 +1,19 @@
+{{/*
+  Info Box Shortcode
+  Usage:
+  {{< info-box type="info" title="ポイント" >}}
+  ここに本文を書きます。Markdownも使えます。
+  {{< /info-box >}}
+
+  Types: info, tip, warning, danger
+*/}}
+{{ $type := .Get "type" | default "info" }}
+{{ $icons := dict "info" "&#8505;" "tip" "&#128161;" "warning" "&#9888;" "danger" "&#9888;" }}
+<div class="info-box {{ $type }}">
+  <div class="info-box-title">
+    {{ index $icons $type }} {{ .Get "title" | default "情報" }}
+  </div>
+  <div class="info-box-content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>
