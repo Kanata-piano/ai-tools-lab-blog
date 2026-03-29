@@ -1,4 +1,4 @@
-baseURL = "https://example.pages.dev"
+baseURL = "https://ai-tools-lab-blog.pages.dev/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "AI Tools Lab"
@@ -56,9 +56,6 @@ enableEmoji = true
 最新のAIツールレビュー、比較、活用ガイドで、あなたのベストな選択をサポートします。"""
 
   # SNSアイコン
-  [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/"
   [[params.socialIcons]]
     name = "rss"
     url = "/index.xml"
