@@ -51,9 +51,8 @@ enableEmoji = true
 
   # ホームページ設定
   [params.homeInfoParams]
-    Title = "AI Tools Lab"
-    Content = """信頼できるAIツール情報をお届けするテックメディア。
-最新のAIツールレビュー、比較、活用ガイドで、あなたのベストな選択をサポートします。"""
+    Title = "👋 AI Tools Lab へようこそ！"
+    Content = """最新AIツールを実際に使って、本音でレビュー。初心者でも分かる解説から、プロ向けの裏技まで。あなたのAIライフをもっと楽しく、もっと便利に。"""
 
   # SNSアイコン
   [[params.socialIcons]]
