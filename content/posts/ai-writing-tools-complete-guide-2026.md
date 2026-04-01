@@ -25,9 +25,9 @@ cover:
 
 この記事では、AI文章作成ツールの選び方から各カテゴリのおすすめ、さらに業務効率化・学習への活用まで、実践的な視点で解説します。
 
-![AI文章作成ツールを使ったライティング作業のイメージ](/images/posts/post_168121e137.jpg)
+![AI文章作成ツールを使ったライティング作業のイメージ](/images/posts/post_0622d77a0f.jpg)
 
-<small>Photo by StartupStockPhotos on Pixabay</small>
+<small>Photo by <a href="https://unsplash.com/@dmjdenise?utm_source=ai_tools_lab&utm_medium=referral">Denise Jans</a> on <a href="https://unsplash.com/?utm_source=ai_tools_lab&utm_medium=referral">Unsplash</a></small>
 
 ---
 
@@ -71,9 +71,9 @@ cover:
 
 AI文章作成ツールは単独で使うより、他のAIツールと組み合わせるとさらに効果が上がります。
 
-![チームでのAIツール活用・コラボレーションのイメージ](/images/posts/post_45491e4846.jpg)
+![チームでのAIツール活用・コラボレーションのイメージ](/images/posts/post_46abb31b19.jpg)
 
-<small>Photo by rawpixel on Pixabay</small>
+<small>Photo by <a href="https://unsplash.com/@ninthgrid_?utm_source=ai_tools_lab&utm_medium=referral">Ninthgrid</a> on <a href="https://unsplash.com/?utm_source=ai_tools_lab&utm_medium=referral">Unsplash</a></small>
 
 ### AI画像生成ツールで記事の訴求力を高める
 
@@ -139,9 +139,9 @@ AI文章作成ツールのプロンプト設計スキルを体系的に学べる
 4. **他のAIツールと組み合わせる**：画像生成・動画編集・業務自動化と連携して効率を最大化する
 5. **学習コンテンツで定期的にアップデート**：AI技術の進化は速い。AI学習・教育プラットフォームで最新情報をキャッチアップする
 
-![コンテンツ戦略とクリエイティブな計画のイメージ](/images/posts/post_b42a33c18d.jpg)
+![コンテンツ戦略とクリエイティブな計画のイメージ](/images/posts/post_64a0a90900.jpg)
 
-<small>Photo by cyberco on Pixabay</small>
+<small>Photo by <a href="https://unsplash.com/@silverkblack?utm_source=ai_tools_lab&utm_medium=referral">Vitaly Gariev</a> on <a href="https://unsplash.com/?utm_source=ai_tools_lab&utm_medium=referral">Unsplash</a></small>
 
 ---
 
