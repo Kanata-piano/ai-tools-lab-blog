@@ -14,6 +14,7 @@ enableEmoji = true
   env = "production"
   description = "AIツールの専門レビュー＆活用ガイド。信頼できる情報で、最適なAIツール選びをサポートします。"
   author = "AI Tools Lab編集部"
+  DateFormat = "2006年1月2日"
 
   # 記事表示設定
   ShowReadingTime = true
