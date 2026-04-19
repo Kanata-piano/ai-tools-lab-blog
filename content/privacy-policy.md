@@ -40,7 +40,7 @@ Cookie の詳細については、[Google プライバシーポリシー](https:
 
 ### 3. アクセス解析ツール（Google Analytics）について
 
-当サイトでは、サービス向上を目的としてアクセス解析ツール「Google Analytics」を使用しています。Google Analytics は Cookie を使用してトラフィックデータを収集しますが、収集される情報は匿名であり、個人を特定するものではありません。
+当サイトでは、サービス向上を目的としてアクセス解析ツール「Google Analytics 4」の導入を現在準備中です。導入後は、Google Analytics が Cookie を使用してトラフィックデータを収集しますが、収集される情報は匿名であり、個人を特定するものではありません。
 
 この機能は Cookie を無効にすることで収集を拒否することができます。詳しくは [Google Analytics オプトアウトアドオン](https://tools.google.com/dlpage/gaoptout/) をご利用ください。
 

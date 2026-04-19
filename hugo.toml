@@ -67,6 +67,9 @@ hasCJKLanguage = true
     icon = "/favicon.svg"
     iconHeight = 28
 
+  # Google Analytics 4 (G-XXXXXXXXXXをユーザーのMeasurement IDに差し替え)
+  # googleAnalytics = "G-XXXXXXXXXX"
+
   # 検出ツール（アナリティクス等は後で設定）
   # [params.analytics.google]
   #   SiteVerificationTag = ""
