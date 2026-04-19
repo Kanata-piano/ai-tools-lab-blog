@@ -8,8 +8,13 @@ tags:
   - ""
 categories:
   - "AIツール・レビュー"
+cover:
+    image: "/images/ai-video-editing-tool-crayon-2026-comparison.jpg"
+    alt: "AI動画編集ツール「Crayon」とは？2026年最新の主要AIツールを徹底比較"
+    caption: ""
+    relative: false
+    hidden: false
 ---
-
 > ※本記事にはアフィリエイトリンクが含まれています。
 
 

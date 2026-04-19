@@ -8,8 +8,13 @@ tags:
   - ""
 categories:
   - "AIツール・レビュー"
+cover:
+    image: "/images/ai-video-editing-tools-2026-complete-guide.jpg"
+    alt: "2026年版AI動画編集ツール完全ガイド：初心者から上級者まで使えるおすすめ8選"
+    caption: ""
+    relative: false
+    hidden: false
 ---
-
 > ※本記事にはアフィリエイトリンクが含まれています。
 
 

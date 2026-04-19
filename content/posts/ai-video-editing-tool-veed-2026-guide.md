@@ -8,8 +8,13 @@ tags:
   - ""
 categories:
   - "AIツール・レビュー"
+cover:
+    image: "/images/ai-video-editing-tool-veed-2026-guide.jpg"
+    alt: "AI動画編集ツールVEEDを徹底解説｜2026年最新の機能・料金・競合比較"
+    caption: ""
+    relative: false
+    hidden: false
 ---
-
 > ※本記事にはアフィリエイトリンクが含まれています。
 
 
