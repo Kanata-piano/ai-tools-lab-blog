@@ -147,6 +147,18 @@ hasCJKLanguage = true
   url = "/archives/"
   weight = 60
 
+[[menu.main]]
+  identifier = "privacy-policy"
+  name = "プライバシーポリシー"
+  url = "/privacy-policy/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "contact-main"
+  name = "お問い合わせ"
+  url = "/contact/"
+  weight = 40
+
 # 出力形式
 [outputs]
   home = ["HTML", "RSS", "JSON"]
