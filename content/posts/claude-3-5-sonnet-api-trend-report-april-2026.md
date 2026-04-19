@@ -8,8 +8,13 @@ tags:
   - ""
 categories:
   - "AIツール・レビュー"
+cover:
+    image: "/images/claude-3-5-sonnet-api-trend-report-april-2026.jpg"
+    alt: "【2026年4月】Claude 3.5 API実測レポート：GPT-5.2と何が違う？"
+    caption: ""
+    relative: false
+    hidden: false
 ---
-
 > ※本記事にはアフィリエイトリンクが含まれています。
 
 

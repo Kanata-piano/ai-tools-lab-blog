@@ -8,8 +8,13 @@ tags:
   - ""
 categories:
   - "AIツール・レビュー"
+cover:
+    image: "/images/ai-image-generation-tools-recommended-2026.jpg"
+    alt: "【2026年最新】ai画像生成ツール おすすめ7選：プロが本気で比較"
+    caption: ""
+    relative: false
+    hidden: false
 ---
-
 > ※本記事にはアフィリエイトリンクが含まれています。
 
 

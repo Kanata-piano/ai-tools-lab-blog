@@ -8,8 +8,13 @@ tags:
   - ""
 categories:
   - "AIツール・レビュー"
+cover:
+    image: "/images/ai-image-generation-tool-site-side-income-experience.jpg"
+    alt: "【体験談】ai画像生成ツールサイトで月5万円稼いだ私のリアルな記録"
+    caption: ""
+    relative: false
+    hidden: false
 ---
-
 > ※本記事にはアフィリエイトリンクが含まれています。
 
 

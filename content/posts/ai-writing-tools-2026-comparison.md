@@ -8,8 +8,13 @@ tags:
   - ""
 categories:
   - "AIツール・レビュー"
+cover:
+    image: "/images/ai-writing-tools-2026-comparison.jpg"
+    alt: "【2026年最新】AI文章作成ツール5選：プロが本気で比較した結果"
+    caption: ""
+    relative: false
+    hidden: false
 ---
-
 > ※本記事にはアフィリエイトリンクが含まれています。
 
 

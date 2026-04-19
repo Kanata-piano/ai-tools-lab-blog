@@ -8,8 +8,13 @@ tags:
   - ""
 categories:
   - "AIツール・レビュー"
+cover:
+    image: "/images/chatgpt-new-features-vs-gemini-claude-comparison-2026.jpg"
+    alt: "【2026年最新】ChatGPT新機能vsGemini2.5vsClaude、本気比較"
+    caption: ""
+    relative: false
+    hidden: false
 ---
-
 > ※本記事にはアフィリエイトリンクが含まれています。
 
 
