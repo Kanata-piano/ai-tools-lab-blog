@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ai-tools-lab-blog.pages.dev/sitemap.xml
