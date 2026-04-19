@@ -5,7 +5,12 @@ description: "2026年最新のChatGPT新機能GPT-5.2、Gemini 2.5、Claude Sonn
 date: 2026-04-04T10:32:55+09:00
 draft: false
 tags:
-  - ""
+  - "ChatGPT"
+  - "Gemini"
+  - "Claude"
+  - "AI比較"
+  - "GPT-5"
+  - "2026年最新"
 categories:
   - "AIツール・レビュー"
 cover:
