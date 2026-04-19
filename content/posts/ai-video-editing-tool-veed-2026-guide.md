@@ -136,4 +136,8 @@ AI文章作成、AI画像生成、業務効率化AI、AI教育ツールと組み
 
 ![VEED導入ステップ](/images/charts/ai-video-editing-tool-veed-2026-guide_chart_3.png)
 
+## 関連記事
 
+- [AI動画編集ツール「Crayon」とは？2026年最新の主要AIツールを徹底比較](/posts/ai-video-editing-tool-crayon-2026-comparison/)
+- [【2026年最新】ai画像生成ツール おすすめ7選：プロが本気で比較](/posts/ai-image-generation-tools-recommended-2026/)
+- [【2026年最新】AI画像生成ツール完全比較：プロが本気で選んだ5選](/posts/ai-image-generation-tools-2026-comparison/)
