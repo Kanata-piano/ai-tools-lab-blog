@@ -226,6 +226,4 @@ ChatGPT 新機能を追いかけるのも大事ですが、**1つのツールを
 
 ## 関連記事
 
-- [AI動画編集ツール「Crayon」とは？2026年最新の主要AIツールを徹底比較](/posts/ai-video-editing-tool-crayon-2026-comparison/)
-- [【2026年最新】ai画像生成ツール おすすめ7選：プロが本気で比較](/posts/ai-image-generation-tools-recommended-2026/)
-- [【2026年最新】AI画像生成ツール完全比較：プロが本気で選んだ5選](/posts/ai-image-generation-tools-2026-comparison/)
+- [【2026年4月】Claude 3.5 API実測レポート：GPT-5.2と何が違う？](/posts/claude-3-5-sonnet-api-trend-report-april-2026/)
