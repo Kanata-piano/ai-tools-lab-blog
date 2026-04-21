@@ -254,6 +254,4 @@ AI動画生成ツールの分野では、2026年Q1に新モデルが複数リリ
 
 ## 関連記事
 
-- [【2026年最新】ChatGPT新機能vsGemini2.5vsClaude、本気比較](/posts/chatgpt-new-features-vs-gemini-claude-comparison-2026/)
-- [AI動画編集ツール「Crayon」とは？2026年最新の主要AIツールを徹底比較](/posts/ai-video-editing-tool-crayon-2026-comparison/)
-- [【体験談】ai画像生成ツールサイトで月5万円稼いだ私のリアルな記録](/posts/ai-image-generation-tool-site-side-income-experience/)
+- [【実録14日間】Claude 3.5 Sonnet APIを使い倒してわかった本当の実力](/posts/claude-35-sonnet-api-14days-real-review/)
