@@ -205,4 +205,8 @@ midjourney v7 料金ひとつとっても、使い方次第でコスパは何倍
 
 ![AI画像生成ツール コスパランキング（2026年4月）](/images/charts/midjourney-v7-pricing-ai-image-trend-report-2026-april_chart_3.png)
 
+## 関連記事
 
+- [【体験談】ai画像生成ツールサイトで月5万円稼いだ私のリアルな記録](/posts/ai-image-generation-tool-site-side-income-experience/)
+- [【2026年最新】ai画像生成ツール おすすめ7選：プロが本気で比較](/posts/ai-image-generation-tools-recommended-2026/)
+- [【2026年最新】AI画像生成ツール完全比較：プロが本気で選んだ5選](/posts/ai-image-generation-tools-2026-comparison/)
