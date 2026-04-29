@@ -207,4 +207,4 @@ midjourney v7 料金ひとつとっても、使い方次第でコスパは何倍
 
 ## 関連記事
 
-- [【2026年4月】AI画像生成の最前線：midjourney v7 日本語対応の衝撃](/posts/midjourney-v7-japanese-ai-trend-report-2026-april/)
+- [【ゼロから始める】Midjourney v7 プロンプト入門ガイド](/posts/midjourney-v7-prompt-beginners-guide-2026/)
