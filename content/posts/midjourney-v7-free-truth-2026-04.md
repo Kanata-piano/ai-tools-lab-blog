@@ -205,3 +205,9 @@ LinkedInの目隠し比較では、汎用LLMでの画像生成は「速くて便
 <!-- CHART_DATA
 { "charts": [ { "type": "table", "title": "AI画像生成ツール無料枠比較（2026年4月）", "headers": ["ツール", "無料枠", "品質", "学習コスト"], "rows": [ ["Midjourney v7", "なし", "★★★★★", "低"], ["Stable Diffusion 最新", "実質無制限", "★★★★", "高"], ["Bing Image Creator", "1日15枚", "★★★", "極低"], ["Leonardo.AI", "1日150トークン", "★★★★", "中"], ["Playground AI", "月500枚", "★★★", "低"] ] }, { "type": "bar", "title": "Midjourney月額プラン比較（USD）", "labels": ["Basic", "Standard", "Pro", "Mega"], "values": [10, 30, 60, 120] } ] }
 CHART_DATA
+
+## 関連記事
+
+- [【2026年4月】AI画像生成の最前線：midjourney v7 日本語対応の衝撃](/posts/midjourney-v7-japanese-ai-trend-report-2026-april/)
+- [【2026年4月】Midjourney v7 料金と画像生成AI業界の激変を総まとめ](/posts/midjourney-v7-pricing-ai-image-trend-report-2026-april/)
+- [【2026年最新】ChatGPT新機能vsGemini2.5vsClaude、本気比較](/posts/chatgpt-new-features-vs-gemini-claude-comparison-2026/)

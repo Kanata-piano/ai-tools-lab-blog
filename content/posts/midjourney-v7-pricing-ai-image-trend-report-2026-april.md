@@ -207,4 +207,4 @@ midjourney v7 料金ひとつとっても、使い方次第でコスパは何倍
 
 ## 関連記事
 
-- [【ゼロから始める】Midjourney v7 プロンプト入門ガイド](/posts/midjourney-v7-prompt-beginners-guide-2026/)
+- [【2026年最新】midjourney v7 freeの真実──業界地図が変わる兆し](/posts/midjourney-v7-free-truth-2026-04/)
