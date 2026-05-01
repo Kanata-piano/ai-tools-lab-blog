@@ -208,6 +208,4 @@ CHART_DATA
 
 ## 関連記事
 
-- [【2026年4月】AI画像生成の最前線：midjourney v7 日本語対応の衝撃](/posts/midjourney-v7-japanese-ai-trend-report-2026-april/)
-- [【2026年4月】Midjourney v7 料金と画像生成AI業界の激変を総まとめ](/posts/midjourney-v7-pricing-ai-image-trend-report-2026-april/)
-- [【2026年最新】ChatGPT新機能vsGemini2.5vsClaude、本気比較](/posts/chatgpt-new-features-vs-gemini-claude-comparison-2026/)
+- [【100時間検証】midjourney v7 アプリの本音レビュー](/posts/midjourney-v7-app-100-hours-real-review/)
