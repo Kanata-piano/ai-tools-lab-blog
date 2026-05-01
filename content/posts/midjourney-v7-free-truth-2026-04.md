@@ -208,4 +208,4 @@ CHART_DATA
 
 ## 関連記事
 
-- [【100時間検証】midjourney v7 アプリの本音レビュー](/posts/midjourney-v7-app-100-hours-real-review/)
+- [【2026年最新】midjourney v7 crefが消えた!?裏技7選](/posts/midjourney-v7-cref-oref-techniques-2026/)

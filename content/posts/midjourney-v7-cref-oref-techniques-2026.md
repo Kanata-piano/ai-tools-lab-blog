@@ -237,4 +237,8 @@ v7、慣れると本当に手放せなくなりますよ。
 
 ![明日から試せるmidjourney v7裏技TOP3](/images/charts/midjourney-v7-cref-oref-techniques-2026_chart_2.png)
 
+## 関連記事
 
+- [【2026年最新】midjourney v7 freeの真実──業界地図が変わる兆し](/posts/midjourney-v7-free-truth-2026-04/)
+- [【2026年最新】ai画像生成ツール おすすめ7選：プロが本気で比較](/posts/ai-image-generation-tools-recommended-2026/)
+- [【2026年最新】AI画像生成ツール完全比較：プロが本気で選んだ5選](/posts/ai-image-generation-tools-2026-comparison/)
