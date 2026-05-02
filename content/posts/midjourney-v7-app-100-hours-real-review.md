@@ -170,6 +170,4 @@ midjourney v7 アプリは、**クリエイティブの相棒として2026年の
 
 ## 関連記事
 
-- [【ゼロから始める】Midjourney v7 プロンプト入門ガイド](/posts/midjourney-v7-prompt-beginners-guide-2026/)
-- [【2026年最新】midjourney v7 freeの真実──業界地図が変わる兆し](/posts/midjourney-v7-free-truth-2026-04/)
-- [【2026年4月】AI画像生成の最前線：midjourney v7 日本語対応の衝撃](/posts/midjourney-v7-japanese-ai-trend-report-2026-april/)
+- [【2週間検証】Runway Gen-4で広告動画を作り続けた本音](/posts/runway-gen4-2weeks-deep-review-2026/)
