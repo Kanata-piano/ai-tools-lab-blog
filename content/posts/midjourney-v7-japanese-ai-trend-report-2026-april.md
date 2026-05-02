@@ -197,4 +197,4 @@ AI副業でも、コンテンツ制作でも、このツールの体験値が今
 
 ## 関連記事
 
-- [【2026年最新】midjourney v7 freeの真実──業界地図が変わる兆し](/posts/midjourney-v7-free-truth-2026-04/)
+- [【実録】ai副業 稼ぎ方で月23万円達成した120日記録](/posts/ai-sidehustle-earning-120days-real-case/)
