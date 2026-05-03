@@ -181,4 +181,8 @@ ai動画生成ツールはまだ発展途上で、来月にはまた新バージ
 
 ![用途別総合おすすめスコア](/images/charts/ai-video-generation-tools-comparison-2026_chart_2.png)
 
+## 関連記事
 
+- [【2026年最新】ai画像生成ツール おすすめ7選：プロが本気で比較](/posts/ai-image-generation-tools-recommended-2026/)
+- [【2026年最新】AI文章作成ツール5選：プロが本気で比較した結果](/posts/ai-writing-tools-2026-comparison/)
+- [AI動画編集ツール「Crayon」とは？2026年最新の主要AIツールを徹底比較](/posts/ai-video-editing-tool-crayon-2026-comparison/)
