@@ -226,4 +226,4 @@ ChatGPT 新機能を追いかけるのも大事ですが、**1つのツールを
 
 ## 関連記事
 
-- [【2026年4月】Claude 3.5 API実測レポート：GPT-5.2と何が違う？](/posts/claude-3-5-sonnet-api-trend-report-april-2026/)
+- [【裏技7選】chatgpt 新機能 画像で作業時間を3倍速にする方法](/posts/chatgpt-new-image-feature-hidden-techniques-2026/)
