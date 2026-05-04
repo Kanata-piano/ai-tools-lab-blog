@@ -254,4 +254,4 @@ AI動画生成ツールの分野では、2026年Q1に新モデルが複数リリ
 
 ## 関連記事
 
-- [【実録14日間】Claude 3.5 Sonnet APIを使い倒してわかった本当の実力](/posts/claude-35-sonnet-api-14days-real-review/)
+- [【実録】GPT-5.2で月62時間削減！個人ブロガーの裏側](/posts/chatgpt-gpt52-2026-blogger-automation-case-study/)
