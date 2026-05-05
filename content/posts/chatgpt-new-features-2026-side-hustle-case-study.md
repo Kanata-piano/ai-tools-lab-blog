@@ -225,4 +225,8 @@ Cursor AI自体は素晴らしいツールです。ただ、**「自分の専門
 
 ![3ツール連携ライティング副業フロー](/images/charts/chatgpt-new-features-2026-side-hustle-case-study_chart_3.png)
 
+## 関連記事
 
+- [【2026年4月】Claude 3.5 API実測レポート：GPT-5.2と何が違う？](/posts/claude-3-5-sonnet-api-trend-report-april-2026/)
+- [【実録】GPT-5.2で月62時間削減！個人ブロガーの裏側](/posts/chatgpt-gpt52-2026-blogger-automation-case-study/)
+- [【2026年4月】AI画像生成の最前線：midjourney v7 日本語対応の衝撃](/posts/midjourney-v7-japanese-ai-trend-report-2026-april/)
