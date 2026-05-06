@@ -226,4 +226,4 @@ ChatGPT 新機能を追いかけるのも大事ですが、**1つのツールを
 
 ## 関連記事
 
-- [【裏技7選】chatgpt 新機能 画像で作業時間を3倍速にする方法](/posts/chatgpt-new-image-feature-hidden-techniques-2026/)
+- [【超入門】ChatGPT新機能プロジェクトを5分で攻略](/posts/chatgpt-new-feature-project-beginner-guide-2026/)

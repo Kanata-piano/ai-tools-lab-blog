@@ -188,6 +188,4 @@ chatgpt 新機能 画像の世界は、2026年のGPT-5.2リリースで本当に
 
 ## 関連記事
 
-- [【2026年最新】ChatGPT新機能vsGemini2.5vsClaude、本気比較](/posts/chatgpt-new-features-vs-gemini-claude-comparison-2026/)
-- [【2026年最新】midjourney v7 crefが消えた!?裏技7選](/posts/midjourney-v7-cref-oref-techniques-2026/)
-- [【検証済】Notion AI自動化を本気で試したら作業時間が半分になった話](/posts/notion-ai-automation-real-comparison-2026/)
+- [【超入門】ChatGPT新機能プロジェクトを5分で攻略](/posts/chatgpt-new-feature-project-beginner-guide-2026/)
