@@ -254,4 +254,4 @@ AI動画生成ツールの分野では、2026年Q1に新モデルが複数リリ
 
 ## 関連記事
 
-- [【実録2026年4月】GPT-5.2新機能まとめで月18万円の副業を組んだ話](/posts/chatgpt-new-features-2026-side-hustle-case-study/)
+- [【2026年4月最新】ChatGPT Plus新機能をClaude/Geminiと本気比較](/posts/chatgpt-plus-new-features-2026-comparison/)
