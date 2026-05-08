@@ -226,4 +226,4 @@ ChatGPT 新機能を追いかけるのも大事ですが、**1つのツールを
 
 ## 関連記事
 
-- [【2026年4月最新】ChatGPT Plus新機能をClaude/Geminiと本気比較](/posts/chatgpt-plus-new-features-2026-comparison/)
+- [【2026年4月速報】chatgpt 4o 新機能で激変！実測レポ](/posts/chatgpt-4o-new-features-2026-april-analysis/)
