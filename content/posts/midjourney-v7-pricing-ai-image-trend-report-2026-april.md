@@ -207,4 +207,4 @@ midjourney v7 料金ひとつとっても、使い方次第でコスパは何倍
 
 ## 関連記事
 
-- [【2026年最新】midjourney v7 freeの真実──業界地図が変わる兆し](/posts/midjourney-v7-free-truth-2026-04/)
+- [【2026年4月】cursor ai コーディング革命の最前線](/posts/cursor-ai-coding-trend-report-2026-04/)

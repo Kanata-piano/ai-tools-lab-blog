@@ -197,4 +197,4 @@ AI副業でも、コンテンツ制作でも、このツールの体験値が今
 
 ## 関連記事
 
-- [【実録】ai副業 稼ぎ方で月23万円達成した120日記録](/posts/ai-sidehustle-earning-120days-real-case/)
+- [【2026年4月】cursor ai コーディング革命の最前線](/posts/cursor-ai-coding-trend-report-2026-04/)
