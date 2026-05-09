@@ -197,4 +197,4 @@ AI副業でも、コンテンツ制作でも、このツールの体験値が今
 
 ## 関連記事
 
-- [【2026年4月】cursor ai コーディング革命の最前線](/posts/cursor-ai-coding-trend-report-2026-04/)
+- [【激震】AIハンドメイドデザイン販売が2026年に変わる理由](/posts/ai-handmade-design-sales-2026-news-analysis/)
