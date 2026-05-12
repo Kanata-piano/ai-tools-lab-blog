@@ -197,4 +197,4 @@ AI副業でも、コンテンツ制作でも、このツールの体験値が今
 
 ## 関連記事
 
-- [【激震】AIハンドメイドデザイン販売が2026年に変わる理由](/posts/ai-handmade-design-sales-2026-news-analysis/)
+- [【超入門】AI経理自動化×freeeで月20時間削減！2026年版](/posts/ai-keiri-jidouka-freee-beginner-guide-2026/)
