@@ -226,4 +226,4 @@ ChatGPT 新機能を追いかけるのも大事ですが、**1つのツールを
 
 ## 関連記事
 
-- [【2026年4月速報】chatgpt 4o 新機能で激変！実測レポ](/posts/chatgpt-4o-new-features-2026-april-analysis/)
+- [【現役教師が暴露】ChatGPT授業活用の裏ワザ7選2026](/posts/chatgpt-teacher-class-hidden-techniques-2026/)
