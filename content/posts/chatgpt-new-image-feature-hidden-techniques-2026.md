@@ -188,4 +188,4 @@ chatgpt 新機能 画像の世界は、2026年のGPT-5.2リリースで本当に
 
 ## 関連記事
 
-- [【現役教師が暴露】ChatGPT授業活用の裏ワザ7選2026](/posts/chatgpt-teacher-class-hidden-techniques-2026/)
+- [【検証済】AI不動産物件説明自動生成の裏技7選で作業3倍速](/posts/ai-real-estate-property-description-auto-generation-techniques-2026/)
