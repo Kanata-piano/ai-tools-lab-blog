@@ -183,4 +183,4 @@ ai動画生成ツールはまだ発展途上で、来月にはまた新バージ
 
 ## 関連記事
 
-- [【実録】AIでEC商品説明を自動生成する5ステップ完全手順](/posts/ai-ec-product-description-auto-generation-guide-2026/)
+- [【2週間検証】ai 医療 診断 支援 ツールの真実](/posts/ai-medical-diagnosis-support-tool-2weeks-review/)

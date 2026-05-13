@@ -202,4 +202,8 @@ GPT-5.2は…正直、規約が複雑すぎて読み切れませんでした。
 
 ![医療AIの賢い使い方ステップ](/images/charts/ai-medical-diagnosis-support-tool-2weeks-review_chart_3.png)
 
+## 関連記事
 
+- [【実測検証】ai動画生成 ツール おすすめ3強を比較](/posts/ai-video-generation-tools-comparison-2026/)
+- [AI動画編集ツール「Crayon」とは？2026年最新の主要AIツールを徹底比較](/posts/ai-video-editing-tool-crayon-2026-comparison/)
+- [【2026年最新】ai画像生成ツール おすすめ7選：プロが本気で比較](/posts/ai-image-generation-tools-recommended-2026/)

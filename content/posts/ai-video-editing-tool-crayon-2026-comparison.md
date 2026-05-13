@@ -129,4 +129,4 @@ ai動画編集ツール「crayon」として検索されるCrayon AIは、現時
 
 ## 関連記事
 
-- [【2026年4月】Claude 3.5 API実測レポート：GPT-5.2と何が違う？](/posts/claude-3-5-sonnet-api-trend-report-april-2026/)
+- [【2週間検証】ai 医療 診断 支援 ツールの真実](/posts/ai-medical-diagnosis-support-tool-2weeks-review/)
