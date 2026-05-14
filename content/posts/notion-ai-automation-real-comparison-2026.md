@@ -235,6 +235,4 @@ CursorみたいなAIコーディングツールに慣れている方なら、API
 
 ## 関連記事
 
-- [【2026年最新】ai画像生成ツール おすすめ7選：プロが本気で比較](/posts/ai-image-generation-tools-recommended-2026/)
-- [【2026年最新】AI画像生成ツール完全比較：プロが本気で選んだ5選](/posts/ai-image-generation-tools-2026-comparison/)
-- [【2026年最新】AI文章作成ツール5選：プロが本気で比較した結果](/posts/ai-writing-tools-2026-comparison/)
+- [【激震】ai 飲食 メニュー 提案がGPT-5.2で激変した話](/posts/ai-restaurant-menu-suggestion-gpt52-2026/)
