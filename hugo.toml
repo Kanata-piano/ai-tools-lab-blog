@@ -74,9 +74,9 @@ hasCJKLanguage = true
   # [params.analytics.google]
   #   SiteVerificationTag = ""
 
-  # 広告設定（AdSense承認後に有効化）
-  enableAds = false
-  adSensePublisherId = ""  # ca-pub-xxxxxxxxxx
+  # 広告設定
+  enableAds = true
+  adSensePublisherId = "ca-pub-3030017237300765"
 
   # 編集リンク
   [params.editPost]
