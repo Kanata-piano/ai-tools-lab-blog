@@ -227,4 +227,8 @@ Cursor AI コーディング経験がある人ならもっと深い自動化（n
 
 ![時短効果ランキング](/images/charts/ai-kakeibo-jidoka-houhou-2026-guide_chart_3.png)
 
+## 関連記事
 
+- [2026年版AI動画編集ツール完全ガイド：初心者から上級者まで使えるおすすめ8選](/posts/ai-video-editing-tools-2026-complete-guide/)
+- [【2026年4月】cursor ai コーディング革命の最前線](/posts/cursor-ai-coding-trend-report-2026-04/)
+- [【体験談】ai画像生成ツールサイトで月5万円稼いだ私のリアルな記録](/posts/ai-image-generation-tool-site-side-income-experience/)

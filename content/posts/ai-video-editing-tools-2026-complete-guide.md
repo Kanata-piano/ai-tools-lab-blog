@@ -181,4 +181,4 @@ AI動画編集ツールは、もはや「便利なオプション」ではなく
 
 ## 関連記事
 
-- [【実録14日間】Claude 3.5 Sonnet APIを使い倒してわかった本当の実力](/posts/claude-35-sonnet-api-14days-real-review/)
+- [【完全ガイド】AI家計簿 自動化 方法で月3時間短縮：10分で完了](/posts/ai-kakeibo-jidoka-houhou-2026-guide/)
