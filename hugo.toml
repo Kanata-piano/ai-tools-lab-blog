@@ -37,6 +37,10 @@ hasCJKLanguage = true
   defaultTheme = "auto"
   disableThemeToggle = false
 
+  # 広告設定（[params]直下に配置しないとサブセクション扱いになるため注意）
+  enableAds = true
+  adSensePublisherId = "ca-pub-3030017237300765"
+
   # 検索設定
   fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
 
@@ -73,10 +77,6 @@ hasCJKLanguage = true
   # 検出ツール（アナリティクス等は後で設定）
   # [params.analytics.google]
   #   SiteVerificationTag = ""
-
-  # 広告設定
-  enableAds = true
-  adSensePublisherId = "ca-pub-3030017237300765"
 
   # 編集リンク
   [params.editPost]
