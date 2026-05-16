@@ -227,4 +227,4 @@ Cursor AI自体は素晴らしいツールです。ただ、**「自分の専門
 
 ## 関連記事
 
-- [【実録90日】ChatGPTダイエット食事管理で-8kg達成した話](/posts/chatgpt-diet-meal-management-90days-experience/)
+- [【実録】ai 議事録 自動作成 無料で月18時間削減した話](/posts/ai-meeting-minutes-free-case-study-2026/)

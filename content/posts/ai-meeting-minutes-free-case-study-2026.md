@@ -190,4 +190,8 @@ GPT-4o miniは確かに賢いんですが、**長時間音声の処理が苦手*
 
 ![議事録自動化ワークフロー](/images/charts/ai-meeting-minutes-free-case-study-2026_chart_3.png)
 
+## 関連記事
 
+- [【実録2026年4月】GPT-5.2新機能まとめで月18万円の副業を組んだ話](/posts/chatgpt-new-features-2026-side-hustle-case-study/)
+- [【実録】AI育児活用で寝かしつけ時間が47分減った話](/posts/ai-parenting-childcare-real-case-study-2026/)
+- [【実録】GPT-5.2で月62時間削減！個人ブロガーの裏側](/posts/chatgpt-gpt52-2026-blogger-automation-case-study/)
