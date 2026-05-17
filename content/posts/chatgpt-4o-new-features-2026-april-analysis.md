@@ -197,4 +197,4 @@ AI業界はもう「乗り遅れたら数年単位で取り返せない」フェ
 
 ## 関連記事
 
-- [【2026年4月速報】AI会議効率化ツールが激変！議事録3分の衝撃](/posts/ai-meeting-efficiency-tools-2026-april-update/)
+- [【2026年4月激震】ChatGPTが報告書を完全自動化！実測30分→3分の衝撃](/posts/chatgpt-report-automation-2026-april-update/)
