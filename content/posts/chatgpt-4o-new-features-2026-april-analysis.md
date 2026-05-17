@@ -197,6 +197,4 @@ AI業界はもう「乗り遅れたら数年単位で取り返せない」フェ
 
 ## 関連記事
 
-- [【2026年4月最新】ChatGPT Plus新機能をClaude/Geminiと本気比較](/posts/chatgpt-plus-new-features-2026-comparison/)
-- [【2026年最新】ChatGPT新機能vsGemini2.5vsClaude、本気比較](/posts/chatgpt-new-features-vs-gemini-claude-comparison-2026/)
-- [【2026年4月】Claude 3.5 API実測レポート：GPT-5.2と何が違う？](/posts/claude-3-5-sonnet-api-trend-report-april-2026/)
+- [【2026年4月速報】AI会議効率化ツールが激変！議事録3分の衝撃](/posts/ai-meeting-efficiency-tools-2026-april-update/)

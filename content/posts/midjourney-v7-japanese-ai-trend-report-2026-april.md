@@ -197,4 +197,4 @@ AI副業でも、コンテンツ制作でも、このツールの体験値が今
 
 ## 関連記事
 
-- [【超入門】AI経理自動化×freeeで月20時間削減！2026年版](/posts/ai-keiri-jidouka-freee-beginner-guide-2026/)
+- [【2026年4月速報】AI会議効率化ツールが激変！議事録3分の衝撃](/posts/ai-meeting-efficiency-tools-2026-april-update/)
