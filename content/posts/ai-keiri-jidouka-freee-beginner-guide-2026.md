@@ -183,6 +183,4 @@ AI経理自動化×freeeは、**お金以上に「時間」をあなたに返し
 
 ## 関連記事
 
-- [【2026年4月】cursor ai コーディング革命の最前線](/posts/cursor-ai-coding-trend-report-2026-04/)
-- [【2026年4月】AI画像生成の最前線：midjourney v7 日本語対応の衝撃](/posts/midjourney-v7-japanese-ai-trend-report-2026-april/)
-- [【2026年4月】Midjourney v7 料金と画像生成AI業界の激変を総まとめ](/posts/midjourney-v7-pricing-ai-image-trend-report-2026-april/)
+- [【超入門】AI文書要約で業務効率を激変させる方法](/posts/ai-document-summary-business-efficiency-beginner-guide-2026/)
