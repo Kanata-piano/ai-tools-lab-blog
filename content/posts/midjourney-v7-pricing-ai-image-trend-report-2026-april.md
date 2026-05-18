@@ -207,4 +207,4 @@ midjourney v7 料金ひとつとっても、使い方次第でコスパは何倍
 
 ## 関連記事
 
-- [【2026年4月】cursor ai コーディング革命の最前線](/posts/cursor-ai-coding-trend-report-2026-04/)
+- [【速報】2026年5月AI副業地図が激変！初心者の勝ち筋](/posts/ai-sidehustle-beginner-2026-news-analysis/)
