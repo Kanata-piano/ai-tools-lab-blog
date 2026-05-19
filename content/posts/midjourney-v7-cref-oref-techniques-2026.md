@@ -239,4 +239,4 @@ v7、慣れると本当に手放せなくなりますよ。
 
 ## 関連記事
 
-- [【裏技7選】chatgpt 新機能 画像で作業時間を3倍速にする方法](/posts/chatgpt-new-image-feature-hidden-techniques-2026/)
+- [【裏技7選】AI画像販売で副業月10万の最短ルート2026](/posts/ai-image-sales-side-hustle-secret-techniques-2026/)
