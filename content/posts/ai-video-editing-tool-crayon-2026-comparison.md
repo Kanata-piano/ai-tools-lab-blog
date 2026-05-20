@@ -127,6 +127,17 @@ ai動画編集ツール「crayon」として検索されるCrayon AIは、現時
 
 ![AI動画制作の導入ステップ](/images/charts/ai-video-editing-tool-crayon-2026-comparison_chart_3.png)
 
+
+<!-- affiliate-block -->
+**[Amazon：AI画像・動画制作の本](https://www.amazon.co.jp/s?k=AI+画像生成+動画編集+本&tag=aitoolslab0c-22)**  
+AIを使ったクリエイティブ制作の実践書。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [【完全手順】AI動画編集で副業を始める7日間ロードマップ](/posts/ai-video-editing-side-hustle-7day-roadmap/)

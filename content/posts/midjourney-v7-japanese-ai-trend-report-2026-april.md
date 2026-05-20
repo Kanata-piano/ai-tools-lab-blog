@@ -197,6 +197,9 @@ AI副業でも、コンテンツ制作でも、このツールの体験値が今
 
 
 <!-- affiliate-block -->
+**[Amazon：AI画像・動画制作の本](https://www.amazon.co.jp/s?k=AI+画像生成+動画編集+本&tag=aitoolslab0c-22)**  
+AIを使ったクリエイティブ制作の実践書。
+
 **[お名前.com（国内シェアNo.1ドメイン登録サービス）](https://px.a8.net/svt/ejp?a8mat=4B3R2Z+D8ASQA+50+2HHVNM)**  
 年間数百円〜。AIブログ・副業サイトの独自ドメイン取得に最適。
 

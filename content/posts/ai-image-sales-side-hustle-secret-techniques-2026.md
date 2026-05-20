@@ -243,6 +243,17 @@ ai画像 販売 方法 副業は、もはや「画像を作る」だけでは戦
 
 ![自動収益化パイプライン構築ステップ](/images/charts/ai-image-sales-side-hustle-secret-techniques-2026_chart_3.png)
 
+
+<!-- affiliate-block -->
+**[Amazon：AI副業・収益化の本](https://www.amazon.co.jp/s?k=AI+副業+収益化+本&tag=aitoolslab0c-22)**  
+AIを使った副業・収益化の実践書が揃っています。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [【検証済】AI不動産物件説明自動生成の裏技7選で作業3倍速](/posts/ai-real-estate-property-description-auto-generation-techniques-2026/)

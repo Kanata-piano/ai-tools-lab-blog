@@ -190,6 +190,17 @@ GPT-4o miniは確かに賢いんですが、**長時間音声の処理が苦手*
 
 ![議事録自動化ワークフロー](/images/charts/ai-meeting-minutes-free-case-study-2026_chart_3.png)
 
+
+<!-- affiliate-block -->
+**[Amazon：ChatGPT・AI活用の本](https://www.amazon.co.jp/s?k=ChatGPT+AI+活用+本&tag=aitoolslab0c-22)**  
+ChatGPT・AI活用の入門書から実践書まで。今すぐ始めたい方に。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [【実録2026年4月】GPT-5.2新機能まとめで月18万円の副業を組んだ話](/posts/chatgpt-new-features-2026-side-hustle-case-study/)

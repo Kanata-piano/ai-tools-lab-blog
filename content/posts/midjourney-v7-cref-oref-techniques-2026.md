@@ -237,6 +237,17 @@ v7、慣れると本当に手放せなくなりますよ。
 
 ![明日から試せるmidjourney v7裏技TOP3](/images/charts/midjourney-v7-cref-oref-techniques-2026_chart_2.png)
 
+
+<!-- affiliate-block -->
+**[Amazon：AI画像・動画制作の本](https://www.amazon.co.jp/s?k=AI+画像生成+動画編集+本&tag=aitoolslab0c-22)**  
+AIを使ったクリエイティブ制作の実践書。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [【裏技7選】AI画像販売で副業月10万の最短ルート2026](/posts/ai-image-sales-side-hustle-secret-techniques-2026/)

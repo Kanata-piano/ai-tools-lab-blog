@@ -169,6 +169,17 @@ BufferやMake（旧Integromat）と連携すれば、編集後の動画を自動
 
 ![初心者におすすめのジャンル](/images/charts/ai-video-editing-side-hustle-7day-roadmap_chart_3.png)
 
+
+<!-- affiliate-block -->
+**[Amazon：AI画像・動画制作の本](https://www.amazon.co.jp/s?k=AI+画像生成+動画編集+本&tag=aitoolslab0c-22)**  
+AIを使ったクリエイティブ制作の実践書。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [【実録】AIでEC商品説明を自動生成する5ステップ完全手順](/posts/ai-ec-product-description-auto-generation-guide-2026/)

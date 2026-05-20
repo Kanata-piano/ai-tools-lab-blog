@@ -179,6 +179,17 @@ AI動画編集ツールは、もはや「便利なオプション」ではなく
 
 ![AI動画編集ツール導入ステップ](/images/charts/ai-video-editing-tools-2026-complete-guide_chart_3.png)
 
+
+<!-- affiliate-block -->
+**[Amazon：AI画像・動画制作の本](https://www.amazon.co.jp/s?k=AI+画像生成+動画編集+本&tag=aitoolslab0c-22)**  
+AIを使ったクリエイティブ制作の実践書。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [【完全ガイド】AI家計簿 自動化 方法で月3時間短縮：10分で完了](/posts/ai-kakeibo-jidoka-houhou-2026-guide/)

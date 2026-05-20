@@ -205,6 +205,17 @@ midjourney v7 料金ひとつとっても、使い方次第でコスパは何倍
 
 ![AI画像生成ツール コスパランキング（2026年4月）](/images/charts/midjourney-v7-pricing-ai-image-trend-report-2026-april_chart_3.png)
 
+
+<!-- affiliate-block -->
+**[Amazon：AI画像・動画制作の本](https://www.amazon.co.jp/s?k=AI+画像生成+動画編集+本&tag=aitoolslab0c-22)**  
+AIを使ったクリエイティブ制作の実践書。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [【速報】2026年5月AI副業地図が激変！初心者の勝ち筋](/posts/ai-sidehustle-beginner-2026-news-analysis/)

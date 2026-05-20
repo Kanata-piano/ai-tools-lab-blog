@@ -181,6 +181,17 @@ ai動画生成ツールはまだ発展途上で、来月にはまた新バージ
 
 ![用途別総合おすすめスコア](/images/charts/ai-video-generation-tools-comparison-2026_chart_2.png)
 
+
+<!-- affiliate-block -->
+**[Amazon：ChatGPT・AI活用の本](https://www.amazon.co.jp/s?k=ChatGPT+AI+活用+本&tag=aitoolslab0c-22)**  
+ChatGPT・AI活用の入門書から実践書まで。今すぐ始めたい方に。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [【2週間検証】ai 医療 診断 支援 ツールの真実](/posts/ai-medical-diagnosis-support-tool-2weeks-review/)

@@ -202,6 +202,17 @@ GPT-5.2は…正直、規約が複雑すぎて読み切れませんでした。
 
 ![医療AIの賢い使い方ステップ](/images/charts/ai-medical-diagnosis-support-tool-2weeks-review_chart_3.png)
 
+
+<!-- affiliate-block -->
+**[Amazon：ChatGPT・AI活用の本](https://www.amazon.co.jp/s?k=ChatGPT+AI+活用+本&tag=aitoolslab0c-22)**  
+ChatGPT・AI活用の入門書から実践書まで。今すぐ始めたい方に。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [【実測検証】ai動画生成 ツール おすすめ3強を比較](/posts/ai-video-generation-tools-comparison-2026/)

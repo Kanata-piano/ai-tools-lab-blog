@@ -233,6 +233,17 @@ CursorみたいなAIコーディングツールに慣れている方なら、API
 
 <!-- CHART_DATA {"type": "comparison_table", "title": "Notion AI自動化アプローチ比較表", "headers": ["項目", "Notion AI単体", "Notion AI + Zapier/Make", "ハイブリッド型（推奨）"], "rows": [{"item": "月額コスト", "values": ["$28", "$58〜", "$40前後"]}, {"item": "セットアップ時間", "values": ["30分", "2時間", "3〜4時間"]}, {"item": "日本語精度", "values": ["84%", "84%", "95%（Claude利用時）"]}, {"item": "処理速度（議事録要約）", "values": ["12秒", "35秒", "14秒"]}, {"item": "外部連携", "values": ["不可", "豊富", "自由自在"]}, {"item": "安定性", "values": ["◎", "△（月2-3回エラー）", "○"]}, {"item": "作業時間削減率", "values": ["30%", "45%", "52%"]}, {"item": "おすすめ対象", "values": ["入門者", "チーム運用", "コスパ重視の個人"]}]} CHART_DATA -->
 
+
+<!-- affiliate-block -->
+**[Amazon：ChatGPT・AI活用の本](https://www.amazon.co.jp/s?k=ChatGPT+AI+活用+本&tag=aitoolslab0c-22)**  
+ChatGPT・AI活用の入門書から実践書まで。今すぐ始めたい方に。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [【激震】ai 飲食 メニュー 提案がGPT-5.2で激変した話](/posts/ai-restaurant-menu-suggestion-gpt52-2026/)

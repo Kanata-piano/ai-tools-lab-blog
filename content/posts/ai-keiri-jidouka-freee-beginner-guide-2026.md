@@ -181,6 +181,17 @@ AI経理自動化×freeeは、**お金以上に「時間」をあなたに返し
 
 ![経理作業：AI導入前後の比較](/images/charts/ai-keiri-jidouka-freee-beginner-guide-2026_chart_2.png)
 
+
+<!-- affiliate-block -->
+**[Amazon：ChatGPT・AI活用の本](https://www.amazon.co.jp/s?k=ChatGPT+AI+活用+本&tag=aitoolslab0c-22)**  
+ChatGPT・AI活用の入門書から実践書まで。今すぐ始めたい方に。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [【超入門】AI文書要約で業務効率を激変させる方法](/posts/ai-document-summary-business-efficiency-beginner-guide-2026/)

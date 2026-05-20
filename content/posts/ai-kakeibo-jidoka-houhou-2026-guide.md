@@ -227,6 +227,17 @@ Cursor AI コーディング経験がある人ならもっと深い自動化（n
 
 ![時短効果ランキング](/images/charts/ai-kakeibo-jidoka-houhou-2026-guide_chart_3.png)
 
+
+<!-- affiliate-block -->
+**[Amazon：ChatGPT・AI活用の本](https://www.amazon.co.jp/s?k=ChatGPT+AI+活用+本&tag=aitoolslab0c-22)**  
+ChatGPT・AI活用の入門書から実践書まで。今すぐ始めたい方に。
+
+
+---
+
+※本記事にはアフィリエイトリンクが含まれています。
+
+### 📌 おすすめ書籍・サービス
 ## 関連記事
 
 - [2026年版AI動画編集ツール完全ガイド：初心者から上級者まで使えるおすすめ8選](/posts/ai-video-editing-tools-2026-complete-guide/)

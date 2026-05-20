@@ -254,12 +254,9 @@ AI動画生成ツールの分野では、2026年Q1に新モデルが複数リリ
 
 
 <!-- affiliate-block -->
-
----
-
-※本記事にはアフィリエイトリンクが含まれています。
-
-### 📌 おすすめサービス
+**[Amazon：ChatGPT・AI活用の本](https://www.amazon.co.jp/s?k=ChatGPT+AI+活用+本&tag=aitoolslab0c-22)**  
+ChatGPT・AI活用の入門書から実践書まで。今すぐ始めたい方に。
+## 📌 おすすめサービス
 
 **[お名前.com（国内シェアNo.1ドメイン登録サービス）](https://px.a8.net/svt/ejp?a8mat=4B3R2Z+D8ASQA+50+2HHVNM)**  
 年間数百円〜。AIブログ・副業サイトの独自ドメイン取得に最適。
