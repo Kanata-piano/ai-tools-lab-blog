@@ -129,4 +129,4 @@ ai動画編集ツール「crayon」として検索されるCrayon AIは、現時
 
 ## 関連記事
 
-- [【2週間検証】ai 医療 診断 支援 ツールの真実](/posts/ai-medical-diagnosis-support-tool-2weeks-review/)
+- [【完全手順】AI動画編集で副業を始める7日間ロードマップ](/posts/ai-video-editing-side-hustle-7day-roadmap/)
