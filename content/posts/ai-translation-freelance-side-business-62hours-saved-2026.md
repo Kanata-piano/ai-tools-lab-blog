@@ -168,3 +168,8 @@ ai 翻訳 副業 フリーランスというキーワードでこの記事にた
 
 ※本記事にはアフィリエイトリンクが含まれています。
 
+## 関連記事
+
+- [【実録】ai 議事録 自動作成 無料で月18時間削減した話](/posts/ai-meeting-minutes-free-case-study-2026/)
+- [【実録】GPT-5.2で月62時間削減！個人ブロガーの裏側](/posts/chatgpt-gpt52-2026-blogger-automation-case-study/)
+- [【実録】AI育児活用で寝かしつけ時間が47分減った話](/posts/ai-parenting-childcare-real-case-study-2026/)
