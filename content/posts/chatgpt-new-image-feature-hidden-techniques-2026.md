@@ -188,7 +188,7 @@ chatgpt 新機能 画像の世界は、2026年のGPT-5.2リリースで本当に
 
 
 <!-- affiliate-block -->
-**[お名前.com（国内シェアNo.1ドメイン登録サービス）](https://px.a8.net/svt/ejp?a8mat=4B3UZ5+2RFESY+50+3SZMKY)**  
+**[お名前.com（国内シェアNo.1ドメイン登録サービス）](https://px.a8.net/svt/ejp?a8mat=4B3R2Z+D8ASQA+50+2HHVNM)**  
 年間数百円〜。AIブログ・副業サイトの独自ドメイン取得に最適。
 
 
