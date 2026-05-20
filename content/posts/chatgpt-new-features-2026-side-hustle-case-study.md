@@ -227,6 +227,9 @@ Cursor AI自体は素晴らしいツールです。ただ、**「自分の専門
 
 
 <!-- affiliate-block -->
+**[お名前.com（国内シェアNo.1ドメイン登録サービス）](https://px.a8.net/svt/ejp?a8mat=4B3UZ5+2RFESY+50+3SZMKY)**  
+年間数百円〜。AIブログ・副業サイトの独自ドメイン取得に最適。
+
 
 ---
 
