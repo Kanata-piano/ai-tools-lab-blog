@@ -169,3 +169,7 @@ PythonとAIを組み合わせた開発の入門書・実践書。
 ## 関連記事
 
 - [【速報】2026年5月AI副業地図が激変！初心者の勝ち筋](/posts/ai-sidehustle-beginner-2026-news-analysis/)
+
+## 関連記事
+
+- [【2026年5月最新】AI×Instagram自動投稿が激変中](/posts/ai-sns-instagram-automation-trend-2026-05/)
