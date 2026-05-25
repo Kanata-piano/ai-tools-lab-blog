@@ -2,7 +2,7 @@
 title: "【2026年5月】ChatGPTメルマガ自動作成が激変中の理由"
 slug: "chatgpt-mail-magazine-auto-2026-may"
 description: "chatgpt メルマガ 自動作成が2026年5月に激変中。Claude三極化時代の使い分け、副業月収12万円の実例、開封率34%まで上げる人間の役割を現場目線で解説します。"
-date: 2026-05-25T18:04:03+09:00
+date: 2026-05-25T18:04:09+09:00
 draft: false
 tags:
   - ""
