@@ -170,4 +170,4 @@ ai 翻訳 副業 フリーランスというキーワードでこの記事にた
 
 ## 関連記事
 
-- [【月7万円】AI Shorts動画自動作成で副業を変えた話](/posts/ai-shorts-video-auto-creation-side-income-experience/)
+- [【実録】中小企業がAIマーケ導入で月87時間削減した話](/posts/ai-marketing-smb-implementation-87hours-saved/)
