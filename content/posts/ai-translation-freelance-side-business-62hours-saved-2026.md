@@ -170,4 +170,4 @@ ai 翻訳 副業 フリーランスというキーワードでこの記事にた
 
 ## 関連記事
 
-- [【実録】中小企業がAIマーケ導入で月87時間削減した話](/posts/ai-marketing-smb-implementation-87hours-saved/)
+- [【実録】AIチャットボット導入で問い合わせ対応が月80時間減った話](/posts/ai-customer-support-chatbot-real-case-study-2026/)
