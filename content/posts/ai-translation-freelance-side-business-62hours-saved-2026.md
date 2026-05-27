@@ -170,4 +170,4 @@ ai 翻訳 副業 フリーランスというキーワードでこの記事にた
 
 ## 関連記事
 
-- [【実録】AIチャットボット導入で問い合わせ対応が月80時間減った話](/posts/ai-customer-support-chatbot-real-case-study-2026/)
+- [【実例公開】AIデザイン効率化×Figmaで月62時間削減した方法](/posts/ai-design-figma-efficiency-62hours-saved/)

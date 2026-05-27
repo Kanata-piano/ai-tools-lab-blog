@@ -228,3 +228,8 @@ AI100%は確実にCTRが落ちます。これは複数案件で実証済み。
 
 ※本記事にはアフィリエイトリンクが含まれています。
 
+## 関連記事
+
+- [【実録】AI翻訳副業フリーランスで月62時間削減した話](/posts/ai-translation-freelance-side-business-62hours-saved-2026/)
+- [【実例公開】AIコンテンツ販売noteで月78時間を自動化した方法](/posts/ai-content-sales-note-78hours-automation-case-study/)
+- [【実録】GPT-5.2で月62時間削減！個人ブロガーの裏側](/posts/chatgpt-gpt52-2026-blogger-automation-case-study/)
