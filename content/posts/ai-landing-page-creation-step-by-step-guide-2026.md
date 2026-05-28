@@ -252,6 +252,4 @@ Microsoft ClarityまたはHotjarのトラッキングコードをFramerに埋め
 
 ## 関連記事
 
-- [【完全手順】AI動画編集で副業を始める7日間ロードマップ](/posts/ai-video-editing-side-hustle-7day-roadmap/)
-- [【実録】AIでEC商品説明を自動生成する5ステップ完全手順](/posts/ai-ec-product-description-auto-generation-guide-2026/)
-- [【実録】AI育児活用で寝かしつけ時間が47分減った話](/posts/ai-parenting-childcare-real-case-study-2026/)
+- [【保存版】AI旅行計画 自動作成を5分でマスターする実践ガイド](/posts/ai-travel-planning-automation-guide-2026/)
