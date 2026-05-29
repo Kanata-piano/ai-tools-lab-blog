@@ -207,7 +207,6 @@ AIを使った副業・収益化の実践書が揃っています。
 **[エックスサーバー（国内シェアNo.1レンタルサーバー）](https://px.a8.net/svt/ejp?a8mat=4B3UZ5+PLNSI+CO4+61JSI)**  
 月額990円〜。高速・安定・WordPress簡単インストール。AIブログ運営に最適。
 
-
 ## 関連記事
 
-- [【実録】AIでEC商品説明を自動生成する5ステップ完全手順](/posts/ai-ec-product-description-auto-generation-guide-2026/)
+- [【実録】chatgpt 副業 隙間時間 スマホで月7万稼ぐまで](/posts/chatgpt-fukugyo-sukimajikan-smartphone-real-story/)
