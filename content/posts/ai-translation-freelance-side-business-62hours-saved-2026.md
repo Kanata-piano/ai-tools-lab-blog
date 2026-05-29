@@ -170,4 +170,4 @@ ai 翻訳 副業 フリーランスというキーワードでこの記事にた
 
 ## 関連記事
 
-- [【実例公開】AIデザイン効率化×Figmaで月62時間削減した方法](/posts/ai-design-figma-efficiency-62hours-saved/)
+- [【3ヶ月でTOEIC200点UP】AI語学学習の最短方法を完全公開](/posts/ai-language-learning-shortest-method-2026/)
