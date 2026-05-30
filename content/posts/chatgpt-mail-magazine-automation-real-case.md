@@ -189,6 +189,4 @@ GPTsのInstructions欄に、こんな指示を入れました。
 
 ## 関連記事
 
-- [【実録】ai 議事録 自動作成 無料で月18時間削減した話](/posts/ai-meeting-minutes-free-case-study-2026/)
-- [【2026年5月】ChatGPTメルマガ自動作成が激変中の理由](/posts/chatgpt-mail-magazine-auto-2026-may/)
-- [【実録】AI翻訳副業フリーランスで月62時間削減した話](/posts/ai-translation-freelance-side-business-62hours-saved-2026/)
+- [【月23時間削減】ChatGPT仕事効率化の具体例7選](/posts/chatgpt-work-efficiency-real-examples-2026/)
