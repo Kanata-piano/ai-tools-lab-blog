@@ -230,4 +230,4 @@ AI100%は確実にCTRが落ちます。これは複数案件で実証済み。
 
 ## 関連記事
 
-- [AI×資格勉強の効率化｜学習時間を半分にする実践ガイド](/posts/ai-exam-study-efficiency-guide-2026/)
+- [【実録】ai イラスト 商用利用 方法で月42時間削減した副業術](/posts/ai-illustration-commercial-use-method-42hours-saved/)

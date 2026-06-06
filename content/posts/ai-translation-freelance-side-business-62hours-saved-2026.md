@@ -170,4 +170,4 @@ ai 翻訳 副業 フリーランスというキーワードでこの記事にた
 
 ## 関連記事
 
-- [【実録】Canva AIで月42時間のデザイン作業を消した話](/posts/canva-ai-design-42hours-saved-case-study/)
+- [【実録】ai イラスト 商用利用 方法で月42時間削減した副業術](/posts/ai-illustration-commercial-use-method-42hours-saved/)
