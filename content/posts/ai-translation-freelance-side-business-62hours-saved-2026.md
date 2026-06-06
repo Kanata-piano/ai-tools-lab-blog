@@ -170,4 +170,4 @@ ai 翻訳 副業 フリーランスというキーワードでこの記事にた
 
 ## 関連記事
 
-- [【3ヶ月でTOEIC200点UP】AI語学学習の最短方法を完全公開](/posts/ai-language-learning-shortest-method-2026/)
+- [【実録】Canva AIで月42時間のデザイン作業を消した話](/posts/canva-ai-design-42hours-saved-case-study/)
