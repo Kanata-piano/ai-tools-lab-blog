@@ -189,4 +189,4 @@ GPTsのInstructions欄に、こんな指示を入れました。
 
 ## 関連記事
 
-- [【月23時間削減】ChatGPT仕事効率化の具体例7選](/posts/chatgpt-work-efficiency-real-examples-2026/)
+- [【実体験】ChatGPT競合分析の方法で週12時間削減した手順](/posts/chatgpt-competitor-analysis-method-real-case-2026/)
