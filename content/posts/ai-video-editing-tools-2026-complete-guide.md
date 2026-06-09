@@ -196,4 +196,4 @@ AIを使ったクリエイティブ制作の実践書。
 
 ## 関連記事
 
-- [【初心者必見】ai tiktok 動画 作成 方法を3ステップで始める完全ガイド2026年5月版](/posts/ai-tiktok-video-creation-beginner-guide-2026/)
+- [【保存版】AI英語学習方法2026完全ガイド：30日で話せる](/posts/ai-english-learning-method-2026-complete-guide/)
