@@ -190,6 +190,4 @@ ai コーディング アシスタント cursorは、単なる「便利ツール
 
 ## 関連記事
 
-- [【実録2026年4月】GPT-5.2新機能まとめで月18万円の副業を組んだ話](/posts/chatgpt-new-features-2026-side-hustle-case-study/)
-- [【2026年4月】cursor ai コーディング革命の最前線](/posts/cursor-ai-coding-trend-report-2026-04/)
-- [【月7万円】AI Shorts動画自動作成で副業を変えた話](/posts/ai-shorts-video-auto-creation-side-income-experience/)
+- [【月60→18時間】aiコーディングエージェント cursor導入で激変した話](/posts/ai-coding-agent-cursor-real-case-study-2026/)
