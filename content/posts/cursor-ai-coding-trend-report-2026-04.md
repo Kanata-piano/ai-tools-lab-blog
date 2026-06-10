@@ -172,4 +172,4 @@ PythonとAIを組み合わせた開発の入門書・実践書。
 
 ## 関連記事
 
-- [【2026年5月最新】AI×Instagram自動投稿が激変中](/posts/ai-sns-instagram-automation-trend-2026-05/)
+- [【月収+18万】Cursor導入3ヶ月で副業コーディングが激変した話](/posts/cursor-ai-coding-assistant-real-results-2026/)
