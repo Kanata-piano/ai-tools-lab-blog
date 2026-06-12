@@ -196,6 +196,4 @@ ai shorts 動画 自動作成に取り組んでわかったのは、これは「
 
 ## 関連記事
 
-- [【実録2026年4月】GPT-5.2新機能まとめで月18万円の副業を組んだ話](/posts/chatgpt-new-features-2026-side-hustle-case-study/)
-- [【実録】AI翻訳副業フリーランスで月62時間削減した話](/posts/ai-translation-freelance-side-business-62hours-saved-2026/)
-- [【実録】ai 議事録 自動作成 無料で月18時間削減した話](/posts/ai-meeting-minutes-free-case-study-2026/)
+- [【実測比較】ai コーディング cursor 比較で月3万円の差が出た話](/posts/ai-coding-cursor-comparison-2026/)

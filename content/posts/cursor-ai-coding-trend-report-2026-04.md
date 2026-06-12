@@ -172,4 +172,4 @@ PythonとAIを組み合わせた開発の入門書・実践書。
 
 ## 関連記事
 
-- [【月収+18万】Cursor導入3ヶ月で副業コーディングが激変した話](/posts/cursor-ai-coding-assistant-real-results-2026/)
+- [【実測比較】ai コーディング cursor 比較で月3万円の差が出た話](/posts/ai-coding-cursor-comparison-2026/)
