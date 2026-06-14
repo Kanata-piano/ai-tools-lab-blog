@@ -171,4 +171,4 @@ stable diffusion 最新動向もChatGPTもClaudeも、結局のところ**「使
 
 ## 関連記事
 
-- [【2026年6月】stable diffusion 最新バージョン徹底レポート](/posts/stable-diffusion-latest-version-2026-june-trend-report/)
+- [【ガチ検証】stable diffusion 最新版を100時間使った真実](/posts/stable-diffusion-latest-100hours-review-2026/)
