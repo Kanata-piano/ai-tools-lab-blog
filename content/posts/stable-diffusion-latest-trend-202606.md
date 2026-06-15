@@ -171,4 +171,4 @@ stable diffusion 最新動向もChatGPTもClaudeも、結局のところ**「使
 
 ## 関連記事
 
-- [【ガチ検証】stable diffusion 最新版を100時間使った真実](/posts/stable-diffusion-latest-100hours-review-2026/)
+- [【月8400円→0円】stable diffusion 最新 ローカルで副業画像販売を黒字化した話](/posts/stable-diffusion-latest-local-2026-06-case-study/)
