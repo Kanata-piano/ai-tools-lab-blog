@@ -229,6 +229,4 @@ stable diffusion 最新情報は日々アップデートされていますが、
 
 ## 関連記事
 
-- [【検証済】AI不動産物件説明自動生成の裏技7選で作業3倍速](/posts/ai-real-estate-property-description-auto-generation-techniques-2026/)
-- [【裏技7選】chatgpt 新機能 画像で作業時間を3倍速にする方法](/posts/chatgpt-new-image-feature-hidden-techniques-2026/)
-- [【2026年最新】midjourney v7 crefが消えた!?裏技7選](/posts/midjourney-v7-cref-oref-techniques-2026/)
+- [【裏ワザ7選】stable diffusion 最新版 インストール後にやる神設定2026](/posts/stable-diffusion-latest-install-hidden-techniques-2026/)
