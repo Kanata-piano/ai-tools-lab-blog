@@ -171,4 +171,4 @@ stable diffusion 最新動向もChatGPTもClaudeも、結局のところ**「使
 
 ## 関連記事
 
-- [【月8400円→0円】stable diffusion 最新 ローカルで副業画像販売を黒字化した話](/posts/stable-diffusion-latest-local-2026-06-case-study/)
+- [【2026年6月最新】Stable Diffusion ローカル版が激変中](/posts/stable-diffusion-latest-local-2026-june-trend/)
