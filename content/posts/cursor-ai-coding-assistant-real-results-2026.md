@@ -190,4 +190,4 @@ ai コーディング アシスタント cursorは、単なる「便利ツール
 
 ## 関連記事
 
-- [【月60→18時間】aiコーディングエージェント cursor導入で激変した話](/posts/ai-coding-agent-cursor-real-case-study-2026/)
+- [【月収+18万円】Cursor AIコーディング進化で副業が変わった話](/posts/cursor-ai-coding-evolution-side-income-2026/)

@@ -196,4 +196,4 @@ ai shorts 動画 自動作成に取り組んでわかったのは、これは「
 
 ## 関連記事
 
-- [【実測比較】ai コーディング cursor 比較で月3万円の差が出た話](/posts/ai-coding-cursor-comparison-2026/)
+- [【月収+18万円】Cursor AIコーディング進化で副業が変わった話](/posts/cursor-ai-coding-evolution-side-income-2026/)
