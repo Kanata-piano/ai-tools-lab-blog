@@ -171,4 +171,4 @@ stable diffusion 最新動向もChatGPTもClaudeも、結局のところ**「使
 
 ## 関連記事
 
-- [【2026年6月最新】Stable Diffusion ローカル版が激変中](/posts/stable-diffusion-latest-local-2026-june-trend/)
+- [【超入門】stable diffusion 最新 使い方を5分で解説](/posts/stable-diffusion-latest-usage-beginner-guide-2026/)
