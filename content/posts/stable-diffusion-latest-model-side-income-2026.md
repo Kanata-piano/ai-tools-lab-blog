@@ -236,6 +236,4 @@ ChatGPT、Claude、Gemini、Canva AI、そしてstable diffusion 最新モデル
 
 ## 関連記事
 
-- [【月8400円→0円】stable diffusion 最新 ローカルで副業画像販売を黒字化した話](/posts/stable-diffusion-latest-local-2026-06-case-study/)
-- [【実録2026年4月】GPT-5.2新機能まとめで月18万円の副業を組んだ話](/posts/chatgpt-new-features-2026-side-hustle-case-study/)
-- [【月収+18万】Cursor導入3ヶ月で副業コーディングが激変した話](/posts/cursor-ai-coding-assistant-real-results-2026/)
+- [【実体験】midjourney v7 omni referenceで月18万円稼げた話](/posts/midjourney-v7-omni-reference-real-income-story/)
