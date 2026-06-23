@@ -188,4 +188,4 @@ AIを使ったクリエイティブ制作の実践書。
 
 ## 関連記事
 
-- [【本音レビュー】ChatGPTで英語ビジネスメール作成を2週間検証](/posts/chatgpt-english-business-email-2weeks-review/)
+- [【手順付き】midjourney v7 release dateで稼ぐ始め方](/posts/midjourney-v7-release-date-start-guide/)

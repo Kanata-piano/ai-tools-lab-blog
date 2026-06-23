@@ -293,3 +293,7 @@ AIを使ったクリエイティブ制作の実践書。
 ## 関連記事
 
 - [【100時間検証】midjourney v7 アプリの本音レビュー](/posts/midjourney-v7-app-100-hours-real-review/)
+
+## 関連記事
+
+- [【手順付き】midjourney v7 release dateで稼ぐ始め方](/posts/midjourney-v7-release-date-start-guide/)
