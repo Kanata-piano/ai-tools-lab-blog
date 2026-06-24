@@ -172,4 +172,4 @@ PythonとAIを組み合わせた開発の入門書・実践書。
 
 ## 関連記事
 
-- [【実測比較】ai コーディング cursor 比較で月3万円の差が出た話](/posts/ai-coding-cursor-comparison-2026/)
+- [【コピペOK】cursor ai コーディング 進化で副業を秒速化する実践術](/posts/cursor-ai-coding-evolution-practical-guide/)
