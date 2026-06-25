@@ -212,6 +212,4 @@ AI 副業 初心者 始め方として、これほど即効性のあるスキル
 
 ## 関連記事
 
-- [【2026年6月最新】Stable Diffusion 最新おすすめモデル徹底比較](/posts/stable-diffusion-latest-recommended-models-2026/)
-- [【2026年6月】stable diffusion 最新動向で稼ぎ方が激変中](/posts/stable-diffusion-latest-trend-202606/)
-- [【本音レビュー】stable diffusion 最新ニュースを2週間使い倒した結果](/posts/stable-diffusion-latest-news-2weeks-honest-review/)
+- [【ゼロから3日】Cursor AI 使い方プログラミング超入門](/posts/cursor-ai-programming-beginner-guide-2026/)
