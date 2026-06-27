@@ -218,4 +218,4 @@ AIは平気で存在しない統計を作ります（ハルシネーションと
 
 ## 関連記事
 
-- [【2週間ガチ検証】chatgpt 仕事効率化 本で月3万円稼げた話](/posts/chatgpt-work-efficiency-book-2weeks-review/)
+- [【実録】chatgpt 仕事効率化 プロンプトで月8万円稼ぐまで](/posts/chatgpt-work-efficiency-prompt-side-income/)
