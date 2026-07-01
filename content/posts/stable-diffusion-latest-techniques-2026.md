@@ -229,4 +229,4 @@ stable diffusion 最新情報は日々アップデートされていますが、
 
 ## 関連記事
 
-- [【裏ワザ7選】stable diffusion 最新版 インストール後にやる神設定2026](/posts/stable-diffusion-latest-install-hidden-techniques-2026/)
+- [【知らないと損】ai プレゼン資料 作成 無料の裏技7選で作業3倍速](/posts/ai-presentation-free-hacks-2026/)
