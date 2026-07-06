@@ -248,4 +248,4 @@ AIの議事録自動作成機能で商談メモを取り、そのまま「この
 
 ## 関連記事
 
-- [【完全ガイド】プレゼン資料 作成 ai プロンプトで30分の仕事を5分にする方法](/posts/presentation-ai-prompt-guide/)
+- [【初心者必見】プレゼン資料 ai 作成方法で3時間を15分に短縮する話](/posts/presentation-ai-creation-method-beginner-guide/)
