@@ -153,3 +153,8 @@ AIに複数パターン作らせて、一番強いフックを選ぶ。ショー
 
 ※本記事にはアフィリエイトリンクが含まれています。
 
+## 関連記事
+
+- [【実録】AI翻訳副業フリーランスで月62時間削減した話](/posts/ai-translation-freelance-side-business-62hours-saved-2026/)
+- [【月7万円】AI Shorts動画自動作成で副業を変えた話](/posts/ai-shorts-video-auto-creation-side-income-experience/)
+- [【実録】ai 議事録 自動作成 無料で月18時間削減した話](/posts/ai-meeting-minutes-free-case-study-2026/)

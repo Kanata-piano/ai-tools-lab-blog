@@ -196,4 +196,4 @@ ai shorts 動画 自動作成に取り組んでわかったのは、これは「
 
 ## 関連記事
 
-- [【月収+18万円】Cursor AIコーディング進化で副業が変わった話](/posts/cursor-ai-coding-evolution-side-income-2026/)
+- [【実録】YouTubeショートAI動画収益化で月4.2万円になるまで](/posts/youtube-shorts-ai-video-monetization-real-results/)

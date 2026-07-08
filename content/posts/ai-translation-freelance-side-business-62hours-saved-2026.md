@@ -170,4 +170,4 @@ ai 翻訳 副業 フリーランスというキーワードでこの記事にた
 
 ## 関連記事
 
-- [【実録】ai イラスト 商用利用 方法で月42時間削減した副業術](/posts/ai-illustration-commercial-use-method-42hours-saved/)
+- [【実録】YouTubeショートAI動画収益化で月4.2万円になるまで](/posts/youtube-shorts-ai-video-monetization-real-results/)
