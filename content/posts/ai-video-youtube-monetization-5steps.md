@@ -187,6 +187,4 @@ YouTubeの収益化（YouTubeパートナープログラム）の主な条件は
 
 ## 関連記事
 
-- [【実録】AIでEC商品説明を自動生成する5ステップ完全手順](/posts/ai-ec-product-description-auto-generation-guide-2026/)
-- [【初心者必見】ai tiktok 動画 作成 方法を3ステップで始める完全ガイド2026年5月版](/posts/ai-tiktok-video-creation-beginner-guide-2026/)
-- [【完全手順】AI動画編集で副業を始める7日間ロードマップ](/posts/ai-video-editing-side-hustle-7day-roadmap/)
+- [【脱出法】youtube ai動画 収益化できない人の突破3ステップ](/posts/youtube-ai-video-monetization-guide-2026/)
