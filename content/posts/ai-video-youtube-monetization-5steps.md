@@ -187,4 +187,4 @@ YouTubeの収益化（YouTubeパートナープログラム）の主な条件は
 
 ## 関連記事
 
-- [【脱出法】youtube ai動画 収益化できない人の突破3ステップ](/posts/youtube-ai-video-monetization-guide-2026/)
+- [【手順付き】YouTubeサムネイルをAIで作る：クリック率が2倍になった実践術](/posts/youtube-thumbnail-ai-guide-2026/)

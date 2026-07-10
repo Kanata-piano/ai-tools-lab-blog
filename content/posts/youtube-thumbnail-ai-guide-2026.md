@@ -234,3 +234,8 @@ AI動画のYouTube収益化や、AI画像の販売まで視野に入れる人も
 
 ※本記事にはアフィリエイトリンクが含まれています。
 
+## 関連記事
+
+- [【完全手順】AI動画でYouTube収益化する5ステップ](/posts/ai-video-youtube-monetization-5steps/)
+- [【実録】YouTubeショートAI動画収益化で月4.2万円になるまで](/posts/youtube-shorts-ai-video-monetization-real-results/)
+- [【脱出法】youtube ai動画 収益化できない人の突破3ステップ](/posts/youtube-ai-video-monetization-guide-2026/)
