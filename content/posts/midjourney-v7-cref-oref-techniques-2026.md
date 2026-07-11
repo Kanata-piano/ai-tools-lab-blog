@@ -251,3 +251,7 @@ AIを使ったクリエイティブ制作の実践書。
 ## 関連記事
 
 - [【裏技7選】AI画像販売で副業月10万の最短ルート2026](/posts/ai-image-sales-side-hustle-secret-techniques-2026/)
+
+## 関連記事
+
+- [【2026年最新】AI音楽生成を商用利用・無料で使い倒す7つの裏技](/posts/ai-music-generation-commercial-free-techniques-2026/)
