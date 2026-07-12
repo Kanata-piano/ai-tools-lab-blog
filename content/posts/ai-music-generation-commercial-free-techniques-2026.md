@@ -220,6 +220,4 @@ AIが作った曲をそのまま使うのではなく、無料の音声編集ソ
 
 ## 関連記事
 
-- [AI動画編集ツールVEEDを徹底解説｜2026年最新の機能・料金・競合比較](/posts/ai-video-editing-tool-veed-2026-guide/)
-- [【2026年最新】midjourney v7 crefが消えた!?裏技7選](/posts/midjourney-v7-cref-oref-techniques-2026/)
-- [AI動画編集ツール「Crayon」とは？2026年最新の主要AIツールを徹底比較](/posts/ai-video-editing-tool-crayon-2026-comparison/)
+- [【本音レビュー】AI音楽生成の無料×商用利用可を2週間使い倒した結果](/posts/ai-music-generation-free-commercial-2weeks-review/)
