@@ -251,3 +251,8 @@ AIは、その中身を形にする最強のアシスタントです。
 
 ※本記事にはアフィリエイトリンクが含まれています。
 
+## 関連記事
+
+- [【実録】teams 議事録 自動作成 aiで月14時間を取り戻した話](/posts/teams-minutes-ai-auto-14hours-saved/)
+- [【実録】zoom 議事録 自動作成 aiで月18時間を取り戻した話](/posts/zoom-minutes-ai-automation-18hours/)
+- [【実録】chatgpt 仕事効率化 アプリで月12時間を取り戻した話](/posts/chatgpt-work-efficiency-app-real-results/)
