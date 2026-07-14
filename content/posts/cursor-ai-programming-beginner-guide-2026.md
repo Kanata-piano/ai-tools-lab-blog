@@ -255,6 +255,4 @@ Cursorで自動化を覚えると、他のAI活用も一気に視野が広がり
 
 ## 関連記事
 
-- [【超入門】stable diffusion 最新 使い方を5分で解説](/posts/stable-diffusion-latest-usage-beginner-guide-2026/)
-- [【超入門】AI文書要約で業務効率を激変させる方法](/posts/ai-document-summary-business-efficiency-beginner-guide-2026/)
-- [【2026年4月】cursor ai コーディング革命の最前線](/posts/cursor-ai-coding-trend-report-2026-04/)
+- [【5ステップ】canva ai 使い方で作業を10倍速に](/posts/canva-ai-tsukaikata-5steps/)
