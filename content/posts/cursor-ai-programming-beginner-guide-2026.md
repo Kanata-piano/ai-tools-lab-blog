@@ -255,4 +255,4 @@ Cursorで自動化を覚えると、他のAI活用も一気に視野が広がり
 
 ## 関連記事
 
-- [【5ステップ】canva ai 使い方で作業を10倍速に](/posts/canva-ai-tsukaikata-5steps/)
+- [【ゼロから】Canva AIで動画が3分で作れる使い方](/posts/canva-ai-video-beginner-guide-2026/)
