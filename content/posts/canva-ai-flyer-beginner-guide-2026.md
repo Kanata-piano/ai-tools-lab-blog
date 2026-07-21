@@ -214,3 +214,8 @@ Canva AIチラシの使い方を、ゼロから見てきました。
 
 ※本記事にはアフィリエイトリンクが含まれています。
 
+## 関連記事
+
+- [【ゼロから】Canva AIで動画が3分で作れる使い方](/posts/canva-ai-video-beginner-guide-2026/)
+- [【5分で完成】canva ロゴ 生成 ai 使い方の超入門ガイド](/posts/canva-logo-ai-beginner-guide-2026/)
+- [【スマホ完結】Canva AI 使い方10分ガイド：無料で月3万](/posts/canva-ai-tsukaikata-smartphone-guide/)
