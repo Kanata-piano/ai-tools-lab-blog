@@ -203,4 +203,4 @@ AIは「三国時代」に入りました。だからこそ、ツールに振り
 
 ## 関連記事
 
-- [【実録】chatgpt 仕事効率化 プロンプトで月8万円稼ぐまで](/posts/chatgpt-work-efficiency-prompt-side-income/)
+- [【2週間ガチ検証】ビジネス英語翻訳AIで残業が消えた話](/posts/business-english-translation-ai-2weeks-review/)

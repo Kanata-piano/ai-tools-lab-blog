@@ -221,3 +221,8 @@ AIが仕上げた英文に “we can discuss flexible pricing”（柔軟な価�
 
 ※本記事にはアフィリエイトリンクが含まれています。
 
+## 関連記事
+
+- [【2週間ガチ検証】chatgpt 仕事効率化 本で月3万円稼げた話](/posts/chatgpt-work-efficiency-book-2weeks-review/)
+- [【実録】プレゼン資料 作成 ai おすすめで残業を月18時間減らした話](/posts/presentation-ai-osusume-jitsuroku-zangyou-18h/)
+- [【実録】ai 音楽生成 商用利用で月18時間の作業を消した話](/posts/ai-music-generation-commercial-use-real-case/)

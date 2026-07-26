@@ -262,4 +262,4 @@ Sonnet系とChatGPTでは、**長文の整合性チェックはClaude、ラフ�
 
 ## 関連記事
 
-- [【初心者必見】プレゼン資料 ai 作成方法で3時間を15分に短縮する話](/posts/presentation-ai-creation-method-beginner-guide/)
+- [【2週間ガチ検証】ビジネス英語翻訳AIで残業が消えた話](/posts/business-english-translation-ai-2weeks-review/)
