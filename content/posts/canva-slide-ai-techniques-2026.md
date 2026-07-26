@@ -190,3 +190,8 @@ CanvaのAIは「時短ツール」ではなく「あなたの作業工程その�
 
 ※本記事にはアフィリエイトリンクが含まれています。
 
+## 関連記事
+
+- [【ゼロから】Canva AIで動画が3分で作れる使い方](/posts/canva-ai-video-beginner-guide-2026/)
+- [【5分で完成】canva ロゴ 生成 ai 使い方の超入門ガイド](/posts/canva-logo-ai-beginner-guide-2026/)
+- [【知らないと損】ai プレゼン資料 作成 無料の裏技7選で作業3倍速](/posts/ai-presentation-free-hacks-2026/)
