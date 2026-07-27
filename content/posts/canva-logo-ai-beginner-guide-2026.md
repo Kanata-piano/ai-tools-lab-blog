@@ -174,4 +174,4 @@ Canva内のAI機能をまとめた場所です。ここでロゴ生成やデザ�
 
 ## 関連記事
 
-- [【知らないと損】canva スライド作成 ai 使い方の裏技7つで資料作りが3時間→30分](/posts/canva-slide-ai-techniques-2026/)
+- [【超入門】Canvaチラシ作成×AIの使い方｜5分で完成](/posts/canva-flyer-ai-beginner-guide/)

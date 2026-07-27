@@ -177,3 +177,8 @@ Canvaには有料（Pro専用）の素材も混ざっています。無料で使
 
 ※本記事にはアフィリエイトリンクが含まれています。
 
+## 関連記事
+
+- [【5分で完成】canva ロゴ 生成 ai 使い方の超入門ガイド](/posts/canva-logo-ai-beginner-guide-2026/)
+- [【ゼロから】Canva AIチラシ使い方入門：10分で完成](/posts/canva-ai-flyer-beginner-guide-2026/)
+- [【ゼロから】Canva AIで動画が3分で作れる使い方](/posts/canva-ai-video-beginner-guide-2026/)
