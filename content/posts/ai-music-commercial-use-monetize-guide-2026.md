@@ -214,3 +214,8 @@ AI画像でサムネイル、AIライターで台本、AI音楽でBGM——**制
 
 ※本記事にはアフィリエイトリンクが含まれています。
 
+## 関連記事
+
+- [【実録】ai 音楽生成 商用利用で月18時間の作業を消した話](/posts/ai-music-generation-commercial-use-real-case/)
+- [【実録】chatgpt 仕事効率化 プロンプトで月8万円稼ぐまで](/posts/chatgpt-work-efficiency-prompt-side-income/)
+- [【実録】YouTubeショートAI動画収益化で月4.2万円になるまで](/posts/youtube-shorts-ai-video-monetization-real-results/)

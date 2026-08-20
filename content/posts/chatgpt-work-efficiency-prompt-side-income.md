@@ -199,6 +199,4 @@ AI画像の販売、AI動画でのYouTube収益化、AI音楽生成の商用利�
 
 ## 関連記事
 
-- [【2週間ガチ検証】chatgpt 仕事効率化 本で月3万円稼げた話](/posts/chatgpt-work-efficiency-book-2weeks-review/)
-- [【実録】chatgpt 仕事効率化 アプリで月12時間を取り戻した話](/posts/chatgpt-work-efficiency-app-real-results/)
-- [【実録】chatgpt 副業 隙間時間 スマホで月7万稼ぐまで](/posts/chatgpt-fukugyo-sukimajikan-smartphone-real-story/)
+- [【実録】ai 音楽生成 商用利用可能で月3万円稼ぐ全手順](/posts/ai-music-commercial-use-monetize-guide-2026/)
